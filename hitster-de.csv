@@ -99,4 +99,73 @@ Card#,Title,Artist,URL,Youtube-Title,Hashed Info
 98,Happy,Pharrell Williams,https://www.youtube.com/watch?v=ZbZSe6N_BXs,Pharrell Williams - Happy (Video),7878bf7cbe23768f8a8f4b541acdee6f6a9edf95f761e3839b03082897a9d4fc
 99,Wonderwall,Oasis,https://www.youtube.com/watch?v=FVdjZYfDuLE,Wonderwall (Remastered),8048295e218cc2632bf115afcb070617b374e672180dd7f0ed63fd5ffdb1e172
 100,You Can't Hurry Love,The Supremes,https://www.youtube.com/watch?v=nq_TX5ZR0rU,You Can't Hurry Love (Mono),4fd29c710574084a562ab34b45e78331357225ac7d5fb684a19f4bcdd337f48a
+101,Gold Digger,"Kanye West, Jamie Foxx",https://www.youtube.com/watch?v=6vwNcNOTVzY,Kanye West - Gold Digger ft. Jamie Foxx,a68f070659726466d67f15213b0a9e51160183cca90a34e6284e90cbb02ad867
+102,Ich will Spass,Markus,https://www.youtube.com/watch?v=UW7lB7p0Eow,Markus - Ich will Spass (ZDF Hitparade 05.07.1982) (VOD),5bcef36af3b1bded7170dcda13efdc8996256d632749ac21561ec3614fee86ef
+103,Lady - Hear Me Tonight,Modjo,https://www.youtube.com/watch?v=vRB1MLGEHSc,Modjo - Lady (Hear Me Tonight) (Radio Edit) (HQ),b7de8bd17e941a1ba60836ef68c6615ab5d5257e4d1efcabca7e02957eaaf304
+104,She Drives Me Crazy,Fine Young Cannibals,https://www.youtube.com/watch?v=UtvmTu4zAMg,Fine Young Cannibals - She Drives Me Crazy (Official Video),0c7a6a595c2deee6409e0b92d0cf7c0d3a34ff2297bf4f29f2518ef1bc656239
+105,Heimweh (Dort wo die Blumen blüh'n),Freddy Quinn,https://www.youtube.com/watch?v=CNwsXRsvVWE,Heimweh (Dort wo die Blumen blüh'n),dbdf0faf86bc492b77687204ac44b29a9869fa31dd58c76e34dc40ffb84eac41
+106,Moskau,Dschinghis Khan,https://www.youtube.com/watch?v=EPdn9_h2dCY,Dschinghis Khan - Moskau (Live 1979 HD),9b308b77acd3ad55c2f6d26d89f2372ff0efd97b84eaaffecc0c3c3e15565618
+107,Cotton Eye Joe,Rednex,https://www.youtube.com/watch?v=mOYZaiDZ7BM,Rednex - Cotton Eye Joe (Official Music Video) [HD] - RednexMusic com,d637f3c9f68734dbef99dd0800b99de1edbd0bf0f66241f49f200b66a41e4678
+108,I Can Help,Billy Swan,https://www.youtube.com/watch?v=bgPsM-YWBrE,Billy Swan - I Can Help (Audio),f38f931369cc6616d25424b1ff3585ac72193ec0c867c80c7abea4979ce7b15f
+109,Dancing In the Dark,Bruce Springsteen,https://www.youtube.com/watch?v=129kuDCQtHs,Bruce Springsteen - Dancing In the Dark (Official Video),4ac853f3ce1ead2aacbb4c19965824912b1256d848fad56d41a9c8c11102561c
+110,Day-O (The Banana Boat Song),Harry Belafonte,https://www.youtube.com/watch?v=YO7M0Hx_1D8,Day O (Banana Boat Song),3aa3ea8f92208d8d33510adb6870a70dba08abc279b3d1c655a08a76f6254ee2
+111,Ich will 'nen Cowboy als Mann,Gitte Haenning,https://www.youtube.com/watch?v=zOcyefACvws,Ich will 'Nen Cowboy Als Mann,1d428b4239931dba3f72c2752e4e7126e547348fe37b54c2916aaf1376e9b769
+112,Break My Heart,Dua Lipa,https://www.youtube.com/watch?v=Nj2U6rhnucI,Dua Lipa - Break My Heart (Official Video),d9e434efde0a04e878c73b356dac6822f82ea6cf7f6d8df172be0c64be3b618a
+113,Wrecking Ball,Miley Cyrus,https://www.youtube.com/watch?v=My2FRPA3Gf8,Miley Cyrus - Wrecking Ball (Official Video),65cb43cc6d82622bc75d273400f803e139d7fecdae4b7fbbee4b5963f63bfcba
+114,Jailhouse Rock,Elvis Presley,https://www.youtube.com/watch?v=PpsUOOfb-vE,Elvis Presley - Jailhouse Rock (Official Audio),02242b58761eecaa7e201aefe62d48e2dd19cd3c0dae307f2ae401ec30cfb58a
+115,Adore You,Harry Styles,https://www.youtube.com/watch?v=VF-r5TtlT9w,Harry Styles - Adore You (Official Video),e8998222d714f357acdc31576f39d67fd75abadb09cbb77de430365a3ea21ec1
+116,Good Golly Miss Molly,Little Richard,https://www.youtube.com/watch?v=ZVQV-1Fzl3w,Little Richard - Good Golly Miss Molly,344de94cd6857a876944c49a57f5375afa9630f92ac13638a62c01d652ce4da2
+117,The Ketchup Song (Aserejé),Las Ketchup,https://www.youtube.com/watch?v=V0PisGe66mY,Las Ketchup - The Ketchup Song (Asereje) (Spanish Version) (Official Video),2d2eaddd42a084ac2fc68b52eb9eb8c8e74e38bebcb6a9c166b976b5ac46bc88
+118,"Relax, Take It Easy",MIKA,https://www.youtube.com/watch?v=RVmG_d3HKBA,"MIKA - Relax, Take It Easy",07f03f7236980c1ed3a95cdfdb6c592b7949fa22b7d02a9ed4b76fffe1125ee9
+119,I'm a Believer,The Monkees,https://www.youtube.com/watch?v=4PQAqprjOuA,I'm a Believer,21d3dac8e7a7ac97bf491f7ff5ba02203dd8cdcfa9155e06c6053add1ec3896f
+120,Schuld war nur der Bossa Nova,Manuela,https://www.youtube.com/watch?v=Gnmq27MCkFY,Schuld war nur der Bossa Nova,63d3a7eaae092abead2b99a0de8aec9c0e52cee6b55f5f8991d0d71be5947ba7
+121,I Love It (feat. Charli XCX),"Icona Pop, Charli XCX",https://www.youtube.com/watch?v=UxxajLWwzqY,Icona Pop - I Love It (feat. Charli XCX) [OFFICIAL VIDEO],bf58948144d80df8b1175924b623af9d76f6229cfdb003d6087efa5c33a834a5
+122,World Hold on (Children of the Sky),Bob Sinclair,https://www.youtube.com/watch?v=XpdpW0z9xnQ,Bob Sinclar - World Hold On (Official HD Video),75b36c8feb13bf8f15a35ca2277903f25791e5a27f91b4e25d4376d19cf9a1c7
+123,Born To Be Wild,Steppenwolf,https://www.youtube.com/watch?v=93fAJe8WVjA,Born To Be Wild,1eacb6a1259de601de99851ad0e9e1881c499f00dba9a122943f2df049fcd6d7
+124,Valerie (feat. Amy Winehouse),"Mark Ronson, Amy Winehouse",https://www.youtube.com/watch?v=bixuI_GV5I0,Mark Ronson ft. Amy Winehouse - Valerie (Official Video),6a5c6885b5003780be74db9a294f157a754b460ba02a4f8d6c84b192a01e7c64
+125,(What A) Wonderful World,Sam Cooke,https://www.youtube.com/watch?v=R4GLAKEjU4w,Sam Cooke - What A Wonderful World (Official Lyric Video),91124220bb99da989fc572f9c5a3e6ee3b6c7049138b4d3d86d9719dfbe53b69
+126,Männer,Herbert Grönemeyer,https://www.youtube.com/watch?v=UEJNMkEr1Ls,Herbert Grönemeyer Männer,8afe74e1fd3f675f59b8e1cd72820028d2bf2a53121f69df74a219704014af5b
+127,You Get What You Give,New Radicals,https://www.youtube.com/watch?v=DL7-CKirWZE,New Radicals - You Get What You Give (Official Music Video),213f1610c0822e003aac9dfa5fc861c3d5e32903904700a4342638a4efa77fda
+128,Mama,Heintje,https://www.youtube.com/watch?v=u0yqKrGKukE,Heintje - Mama (German version),c19d87e9bac904df82aeade04dc10501c5a33e31d8a8aa29f6cf853960134018
+129,My Heart Will Go On,Celine Dion,https://www.youtube.com/watch?v=9bFHsd3o1w0,Céline Dion - My Heart Will Go On (Official 25th Anniversary Alternate Music Video),9a03e20bb4e66cfffcb5cdeeb5c4750efa106d43326d561ab2c5bdfb6620b208
+130,Dancing On The Ceiling,Lionel Richie
+131,Give It Up,KC & The Sunshine Band
+132,Feel,Robbie Williams
+133,How You Remind Me,Nickelback
+134,Got My Mind Set On You,George Harrison
+135,Verdammt lch lieb' dich,Matthias Reim
+136,I Like To Move It,Reel 2 Real
+137,Don't You Want Me,The Human League
+138,Drei Uhr Nachts Mark Forster, LEA
+139,Westerland Die Arzte
+140,Every Breath You Take The Police
+141,Bitter Sweet Symphony,The Verve
+142,Gettin' Jiggy Wit It,Will Smith
+143,Barbie Girl,Aqua
+144,Pack Die Badehose Ein,Cornelia Froboess
+145,Torn,Natalie Imbruglia
+146,The Wanderer,Dion
+147,La Bamba,Ritchie Valens
+148,Toosie Slide,Drake
+149,drivers license,Olivia Rodrigo
+150,Moves Like Jagger,"Maroon 5, Christina Aguilera"
+151,Atemlos durch die Nacht,Helene Fischer
+152,Stop,Spice Girls
 153,If You Had My Love,Jennifer Lopez,https://www.youtube.com/watch?v=lYfkl-HXfuU,Jennifer Lopez - If You Had My Love (Official Video),e079687389041a494a6f98606b6d095ac9567a43af55e8f9419f05fdc42bdd86
+154,More Than a Feeling,Boston
+155,Disco Inferno, The Trammps
+156,Someone You Loved,Lewis Capaldi
+157,"MIEF! (Nimm mich jetzt, auch wenn ich stinke)",Die Doofen
+158,Sweet Child O' Mine,Guns N' Roses
+159,Your Song,Elton John
+160,Congratulations,Cliff Richard
+161,You're So Vain,Carly Simon
+162,Easy,Commodores
+163,Forever Young,Alphaville
+164,Maneater,Daryl Hall & John Oates
+165,Rock Me Amadeus,Falco
+166,I Got You Babe,Sonny & Cher
+167,Junge,Die Ärzte
+168,Everywhere,Fleetwood Mac
+
+
