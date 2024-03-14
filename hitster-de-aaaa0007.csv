@@ -1,4 +1,4 @@
-Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
+Card#,Title,Artist,URL,Hashed Info,Youtube-Title,Year
 1,"Heute male ich dein Bild, Cindy Lou (The Birds and the Bees)",Drafi Deutscher,https://www.youtube.com/watch?v=1BeptEANAS0
 2,Aloha Heja He,Achim Reichel,https://www.youtube.com/watch?v=NbPc8VhstGE
 3,Herz auf rot,G.G. Anderson,https://www.youtube.com/watch?v=I5HtYA54Jcw
@@ -29,11 +29,11 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 28,"Du bist alles (Maria, Maria) (You Want Love)",Andreas Martin,https://www.youtube.com/watch?v=cufovD-oSbo,,1987
 29,Verliab di,Trenkwalder,https://www.youtube.com/watch?v=2zxqZARI0e0,,2001
 30,1000 Träume weit (Tornero),Anna-Maria Zimmermann,https://www.youtube.com/watch?v=ZgYNi0op4Dw,,2009
-31,Zeit zu gehen,Unheilig
-32,Ich will dich für immer - Disco Fox,NIC
-33,Steirermen San Very Good,Das Stoakogler Trio
-34,Irgendwie Wird's Schon Geh'n,Tom Astor
-35,Die Pure Lust am Leben,Geier Sturzflug
+31,Zeit zu gehen,Unheilig,https://www.youtube.com/watch?v=DGrPaVZH4mE,,2014
+32,Ich will dich für immer - Disco Fox,NIC,https://www.youtube.com/watch?v=BfeSuyIl73k,,2007
+33,Steirermen San Very Good,Das Stoakogler Trio,https://www.youtube.com/watch?v=p-gK9kzEVhY,,1992
+34,Irgendwie Wird's Schon Geh'n,Tom Astor,https://www.youtube.com/watch?v=j65700cH93o,,1996
+35,Die Pure Lust am Leben,Geier Sturzflug,https://www.youtube.com/watch?v=wKAwFAdI2jI,,1984
 36,Sind Sie der Graf von Luxemburg?,Dorthe
 37,Weekend,"DJ Herzbeat, Sarah Engels"
 38,Du muBt deinen Weg alleine gehen,Dirk Busch
@@ -67,13 +67,110 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 66,Das Trampolin - Live,Mike Krüger
 67,Kreuzberger Nächte,Gebrüder Blattschuss
 68,Ibiza,Ibo,https://www.youtube.com/watch?v=3O2QRoQ0Y8E,,1985
-
-155,Die Flippers,Die rote Sonne von Barbados,https://www.youtube.com/watch?v=9mUg9EReVuk,8d349134c17c9cab7a2ceeff9afed3e73be97e1be81bb68c1e4d6e525f0baf40,Die rote Sonne von Barbados,1986
-156,Christian Anders,Es fährt ein Zug nach Nirgendwo,https://www.youtube.com/watch?v=haIgciQVN-0,446e7f0b3faf00d85ad788de0637de7ef993152e7e02c8b0310c7e3b70808452,Es fährt ein Zug nach nirgendwo,1972
-157,Ben Zucker,Der Sonne entgegen,https://www.youtube.com/watch?v=Vu403ZAEtxE,a16dfea2bb2951445b9e0e326cae44eb283429c239833a853e4fd09e9cd9fada,Ben Zucker - Der Sonne entgegen,2018
-158,Helene Fischer,Rausch,https://www.youtube.com/watch?v=vVnTxZ6ppBU,c9e96220d6232d879ae02b16f04b41dd19d7ae515dab3d733a90a6ae882e4a5d,Rausch,2021
-161,Münchner Freiheit,Ohne Dich (schlaf' ich heut Nacht nicht ein),https://www.youtube.com/watch?v=0fUsuQUUotA,873c6609f66fe351a63587d158e6c6e0b74159b14721d6628018a7158d637702,Ohne Dich (schlaf' ich heut Nacht nicht ein),1985
-168,Beatrice Egli,Mein Herz,https://www.youtube.com/watch?v=rvBBMSfF31w,278aa20cab6d3f3b9f2bb33596c4ff244c62b80ec503ad8654d0dc808be26c01,Beatrice Egli - Mein Herz,2013
-169,Ingrid Peters,Wenn den Kindern Flügel wachsen,https://www.youtube.com/watch?v=lkPZMQuGq3I,accf4d9cb3fcb82f16eacd23f791790a5095e06f1f4771e8900283a98f986f20,Wenn den Kindern Flügel wachsen,2005
-171,Wolfgang Petry,"Verlieben, verloren, vergessen, verzeih'n",https://www.youtube.com/watch?v=VH9mObSufSg,cbedf35d7b81dc064a3d1a07c9bf2cc556c530c2b3e10c151bdcd33e23b6c237,"Verlieben, verloren, vergessen, verzeih'n",1992
-175,"Dieter Thomas Kuhn, Michael Holm",Barfuß im Regen,https://www.youtube.com/watch?v=U1Wgb4nPlZA,1a4e8dc5c29cfff081f5d5686c9eacc5a01739512156e7c8c3c663a4bb1098c1,Barfuß im Regen,1970
+69,Auf der StraBe nach Süden,Tony Marshall
+70,Ich Iiebe das Leben,Vicky Leandros
+71,Macho Macho,Rainhard Fendrich
+72,Heidi,Gitti Und Erica
+73,Früh-Stück,Gebrüder Blattschuss
+74,Des geht vorbei,Nicki
+75,Ich liebe dich,Clowns & Helden
+76,Fang das Licht,"Karel Gott, Darinka"
+77,Wo finde ich den Mann?,Lill-Babs
+78,"Gold, Platin und Diamant",Die Fidelen Mölltaler
+79,Santa Catarina,Andrea Jürgens
+80,Der blonde Hans,Hannes Kröger
+81,Das ganze Leben ist ein Quiz,Hape Kerkeling
+82,Dicht im Flieger,Julian Sommer
+83,Lass die Sonne in dein Herz,Wind
+84,Ein bisschen Spaß muss sein,Roberto Blanco
+85,Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha,Trio
+86,Scheiss drauf! (Mallorca ist nur einmal im Jahr),Peter Wackel
+87,Mendocino,Michael Holm
+88,Zwei Senoritas,Sigrid & Marina
+89,Ich vermiss' Dich... (wie die Hölle),Zlatko
+90,Du schaffst das schon,KLUBBB3
+91,Tanze mit mir in den Morgen,Gerhard Wendland
+92,Lass mi bei Dir sein,atlantis
+93,Rate Lippen Soll Man Küssen - Lucky Lips — 1996 Remaster Cliff Richard & The Shadows
+94,Ich brauch ein bisschen Glück,Andy Borg
+95,Warum hast Du nicht nein gesagt Roland Kaiser, Maite Kelly
+96,Bierkapitän,"Markus Becker, Bierkapitän"
+97,Glücksmoment,Prince Damien
+98,Cordula Grün,Josh.
+99,Der geilste Fehler,Marina Marx
+100,Regenbogenfarben,Kerstin Ott
+101,Lovesong,Francine Jordi
+102,Tanze Samba mit mir,Tony Holiday
+103,Herz ist Trumpf (Dann rufst du an...),Trio
+104,"Viva Colonia (Da simmer dabei, dat is prima!)",Höhner
+105,Königin der Nacht,Cordalis
+106,Es ist geil ein Arschloch zu sein,"Christian, Bülent Aris"
+107,Männertango,Ella Endlich
+108,Sieben Leben für dich,Maite Kelly
+109,Ich bin wer ich sein will (feat. Allessa),"Musikapostel, Allessa"
+110,Wie kannst du mich bloss lieben,Andy Borg
+111,Wolke 7,Wolkenfrei
+112,Fiesta Mexicana,Rex Gildo
+113,Sonderzug nach Pankow,Udo Lindenberg & Das Panik-Orchester
+114,Bruttosozialprodukt,Geier Sturzfiug
+115,Trödler Abraham,Wolfram
+116,Knutschen...ich kann nichts dafür,Linda Hesse
+117,Ententanz (Ja wenn wir alle Englein wären),"Frank Zander, Fred Sonnenschein & seine Freunde"
+118,Polonase Blankenese,Gottlieb Wendehals
+119,Schenk' mir diese eine Nacht,Brunner & Brunner
+120,Sieben Fässer Wein,Roland Kaiser
+121,Ich bin frei,Franziska Wiese
+122,Sa-Lo-Me,Achim Reichel
+123,Aber sonst geht's mir gut,Alex Parker
+124,Radio Zuckerhut,Wind
+125,Wenn du denkst du denkst dann denkst du nur du denkst,Juliane Werding
+126,Goethe war gut,Rudi Carrell
+127,Perfekte Welle,Juli
+128,An Der Nordseeküste,Klaus & Klaus
+129,Die Schwarze Barbara,Heino
+130,Blau blüht der Enzian,Heino
+131,300 PS (... Auto),EAV (Erste Allgemeine Verunsicherung)
+132,"Hey Boss, ich brauch mehr Geld",Gunter Gabriel
+133,Ciao D'Amore,Klostertaler
+134,Solang wir lieben,Simone
+135,Tür an Tür mit Alice,Howard Carpendale
+136,Verlier sie nie,Michael Wendler
+137,Albany (feat. Roger Whittaker),"DJ Herzbeat, Roger Whittaker"
+138,"Einmal hin, einmal her",Sarah-Jane
+139,"Alles hat ein Ende, nur die Wurst hat zwei (Krause und Ruth)",Stephan Remmler
+140,Viel zu oft,Simone
+141,Joana,Roland Kaiser
+142,Was geht hier ab,voXXclub
+145,Amsterdam,Axel Fischer
+144,"Saufen morgens, mittags, abends",Ingo ohne Flamingo
+145,"Emmylou, Emmylou" Truck Stop
+146,Maschen-Draht-Zaun,Stefan Raab
+147,Das erste Mal tat's noch weh (Les histoires d'amour),"Stefan Waggershausen, Viktor Lazlo"
+148,An der Copacabana,EAV (Erste Allgemeine Verunsicherung)
+149,Etwas für die Ewigkeit,Claudia Jung
+150,I lass di nimmer aus,Relax
+151,La Luna Blu,Monika Martin
+152,Prinzessin,Michael Wendler
+153,Griechischer Wein,Udo Jürgens
+154,Die Gefühle haben Schweigepflicht,Andrea Berg
+155,Die rote Sonne von Barbados,Die Flippers,https://www.youtube.com/watch?v=9mUg9EReVuk,8d349134c17c9cab7a2ceeff9afed3e73be97e1be81bb68c1e4d6e525f0baf40,Die rote Sonne von Barbados,1986
+156,Es fährt ein Zug nach Nirgendwo,Christian Anders,https://www.youtube.com/watch?v=haIgciQVN-0,446e7f0b3faf00d85ad788de0637de7ef993152e7e02c8b0310c7e3b70808452,Es fährt ein Zug nach nirgendwo,1972
+157,Der Sonne entgegen,Ben Zucker,https://www.youtube.com/watch?v=Vu403ZAEtxE,a16dfea2bb2951445b9e0e326cae44eb283429c239833a853e4fd09e9cd9fada,Ben Zucker - Der Sonne entgegen,2018
+158,Rausch,Helene Fischer,https://www.youtube.com/watch?v=vVnTxZ6ppBU,c9e96220d6232d879ae02b16f04b41dd19d7ae515dab3d733a90a6ae882e4a5d,Rausch,2021
+159,Mit dir werden Wunder noch wahr,Bernhard Brink
+160,Blaue Lagune,"Anna-Carina Woitschack, Stefan Mross"
+161,Ohne Dich (schlaf' ich heut Nacht nicht ein),Münchner Freiheit,https://www.youtube.com/watch?v=0fUsuQUUotA,873c6609f66fe351a63587d158e6c6e0b74159b14721d6628018a7158d637702,Ohne Dich (schlaf' ich heut Nacht nicht ein),1985
+162,Carbonara,Spliff
+163,"Der Wilde, Wilde Westen",Truck Stop
+164,Hello Again,Howard Carpendale
+165,Starke Gefühle,Juliane Werding
+166,Lieben heißt Leben,Bernd Clüver
+167,Büetzer Buebe,"Gölä, Trauffer"
+168,Mein Herz,Beatrice Egli,https://www.youtube.com/watch?v=rvBBMSfF31w,278aa20cab6d3f3b9f2bb33596c4ff244c62b80ec503ad8654d0dc808be26c01,Beatrice Egli - Mein Herz,2013
+169,Wenn den Kindern Flügel wachsen,Ingrid Peters,https://www.youtube.com/watch?v=lkPZMQuGq3I,accf4d9cb3fcb82f16eacd23f791790a5095e06f1f4771e8900283a98f986f20,Wenn den Kindern Flügel wachsen,2005
+170,Hier kommt Kurt,Frank Zander
+171,"Verlieben, verloren, vergessen, verzeih'n",Wolfgang Petry,https://www.youtube.com/watch?v=VH9mObSufSg,cbedf35d7b81dc064a3d1a07c9bf2cc556c530c2b3e10c151bdcd33e23b6c237,"Verlieben, verloren, vergessen, verzeih'n",1992
+172,Du Depp,Haindling
+173,Mary Jane,Jürgen Peter
+174,"Resi, i hol di mit mei'm Traktor ab",Wolfgang Fierek
+175,Barfuß im Regen,"Dieter Thomas Kuhn, Michael Holm",https://www.youtube.com/watch?v=U1Wgb4nPlZA,1a4e8dc5c29cfff081f5d5686c9eacc5a01739512156e7c8c3c663a4bb1098c1,Barfuß im Regen,1970
