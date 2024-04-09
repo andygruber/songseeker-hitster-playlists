@@ -1,30 +1,30 @@
 Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
-1,"Nachts, wenn alles schläft...",Howard Carpendale,,https://www.youtube.com/watch?v=aLe-skz3pbo,,,DEA340500985
-2,Love Shack,The B-52's,,https://www.youtube.com/watch?v=LXZFtJceQC4,,,USRE10801410
-3,Wake Me Up Before You Go-Go,Wham!,,,,,GBBBN0009712
-4,Daydream Believer,The Monkees,,,,,USRH10125802
-5,Issues,Julia Michaels,,,,,USUM71615691
-6,Black Saturday,Mando Diao,,,,,SEYBD1300102
-7,The Weekend - Radio Edit,Michael Gray,,,,,GBBFR0400137
-8,I Will Always Love You,Whitney Houston,,,,,USAR19200110
-9,Tears in Heaven,Eric Clapton,,,,,USRE19100010
-10,Woman In Love,Barbra Streisand,,,,,USSM18000362
-11,Please Mr. Postman,Carpenters,,,,,USAM17500067
-12,Crucified,Army Of Lovers,,,,,USGI10000215
-13,Holiday,The Other Ones,,,,,DEG128600401
-14,Hijo de la Luna,Mecano,,,,,ES5028600049
-15,I'd Do Anything For Love (But I Won't Do That) - Single Edit,Meat Loaf,,,,,USMC19341323
-16,Soulmate,Natasha Bedingfield,,,,,GBARL0700096
-17,Faust auf Faust (Schimanski) - Remastered 2007,Klaus Lage,,,,,DEA340700759
-18,Because I Love You,Stevie B,,,,,AUGBT2311775
-19,Anywhere,Rita Ora,,,,,GBAHS1701111
-20,Can't Take My Eyes off You,Frankie Valli,,,,,USRH11000238
-21,High Hopes,Panic! At The Disco,,,,,USAT21801174
-22,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,,,,,GBUM71406823
-23,"Sugar, Sugar",The Archies,,,,,NLG620400826
-24,I Follow Rivers (Live @ Giel),Triggerfinger,,,,,BEN151200019
-25,Mr Boombastic,Shaggy,,,,,FR8GV1904450
-26,Because You Loved Me,Celine Dion,,,,,USSM19504296
+1,"Nachts, wenn alles schläft...",Howard Carpendale,,https://www.youtube.com/watch?v=aLe-skz3pbo,8840a51d835814aa95bb74d423db35ddb09de6b6f9493994f5675820afd10831,"Nachts, wenn alles schläft",DEA340500985
+2,Love Shack,The B-52's,,https://www.youtube.com/watch?v=LXZFtJceQC4,6d76c7826d73de3a43762d13db25c6ee7fded3118f72020389852fdcda1f8abd,Love Shack,USRE10801410
+3,Wake Me Up Before You Go-Go,Wham!,,https://www.youtube.com/watch?v=c5DGcQoBC9k,606fdc28606745a22dd7cb1e223737d74d61e76547c888ebdd8728b69f6f9958,Wake Me Up Before You Go-Go,GBBBN0009712
+4,Daydream Believer,The Monkees,,https://www.youtube.com/watch?v=aG9MBS0fjyE,06339b5f3563883d1c6e81c89205676a4ab4b68997f973f1124963f1e3ba943a,Daydream Believer,USRH10125802
+5,Issues,Julia Michaels,,https://www.youtube.com/watch?v=7dqMyh4ILIg,185e714b59c55dfaf3cb39616e3cf8f578c6dfb6f47f79a76fb1ea0ff841299e,Julia Michaels - Issues (Audio),USUM71615691
+6,Black Saturday,Mando Diao,,https://www.youtube.com/watch?v=t5Uq1wV4PUQ,3b5dcf5f0febffa3faae39ce5a627bd329bdf62f6e06c312af247bd867bafa94,Black Saturday,SEYBD1300102
+7,The Weekend,Michael Gray,,https://www.youtube.com/watch?v=PMXjC6ZpNr4,a505775cc811d7ee548679449d28b4acbac991399ab9a81183638266e4cd8819,The Weekend (Radio Edit),GBBFR0400137
+8,I Will Always Love You,Whitney Houston,,https://www.youtube.com/watch?v=tP0zj220CbQ,1736cb688ede5398147a5f6817eb6d26d2179f96befbbb1a0c3bb023e4526884,I Will Always Love You,USAR19200110
+9,Tears in Heaven,Eric Clapton,,https://www.youtube.com/watch?v=VVqXLXMch9g,1d3e8c832318fae137fcb1eef4eee5cd63b02fd20f5b5c501091197f685bd2fd,Tears in Heaven,USRE19100010
+10,Woman In Love,Barbra Streisand,,https://www.youtube.com/watch?v=hQLGCX8D-1Y,8d5598ab20d6ba3b187872a2341bbc55d23054187b59af85eacfc90ed150178f,Barbra Streisand - Woman in Love (Audio),USSM18000362
+11,Please Mr. Postman,Carpenters,,https://www.youtube.com/watch?v=R1qY7QaL8pM,1d89cb65542502bff2e770ee7da50b60198be378e08e3f0d61dd7438586d84b6,Please Mr. Postman,USAM17500067
+12,Crucified,Army Of Lovers,,https://www.youtube.com/watch?v=NtvoxOIQ9g0,9bdab900cc89ab211eb934c655efdf171f5eea92257214ef2a01f61b6dfef85c,Crucified (Radio Edit),USGI10000215
+13,Holiday,The Other Ones,,https://www.youtube.com/watch?v=PSP-S882RKc,aa9a8e2dee5a04f8781700e639f0fc4d08a89c19facdb9765f4a721007e3bb3c,Holiday,DEG128600401
+14,Hijo de la Luna,Mecano,,https://www.youtube.com/watch?v=sIIEP6pVACA,2e9744b874ea2111907aac31e86e3fdad91d6874436f715047a2206a8bc14a8b,Hijo de la Luna,ES5028600049
+15,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,,https://www.youtube.com/watch?v=kOeu1QhrCZg,fb61b53d2f71a73f43ce2a9dcc8b2fed7eaff81d584780342b4397e6fc936aac,I'd Do Anything For Love (But I Won't Do That) (Single Edit),USMC19341323
+16,Soulmate,Natasha Bedingfield,,https://www.youtube.com/watch?v=PSmEy0CyWFs,0e32b2ae68bdb816e9c296ff429955b185c81523be556a9fa3d87cbd16e6369f,Soulmate,GBARL0700096
+17,Faust auf Faust (Schimanski),Klaus Lage,,https://www.youtube.com/watch?v=CLF-ZCb9E5s,fcda845cc74af1ee21d971fe9b4cec55b1014d586928b12e5366b4f526182b59,Faust auf Faust (Schimanski) (Remastered 2007),DEA340700759
+18,Because I Love You,Stevie B,,https://www.youtube.com/watch?v=Tm4lcJ9nMSw,7691b485afa0650da143fae3c0fc0147a104e8e63790014645bfe6b8f1b137c0,Because I Love You,AUGBT2311775
+19,Anywhere,Rita Ora,,https://www.youtube.com/watch?v=ksdAs4LBRq8,5855cac387ce83ceae44998cf9bc89ea090bf68e240574ad7292290578457314,Rita Ora - Anywhere [Official Video],GBAHS1701111
+20,Can't Take My Eyes off You,Frankie Valli,,https://www.youtube.com/watch?v=iObGpqXKBdY,815562713c21580c0fcb4db80e5658fc84363891d46756ead545ac10904978df,Cant Take My Eyes off You,USRH11000238
+21,High Hopes,Panic! At The Disco,,https://www.youtube.com/watch?v=GJY8OMJXRAk,b279e59289c9a658d62907a89f6837adf8192f9fd4b21461b43cff94667a496b,High Hopes,USAT21801174
+22,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,,https://www.youtube.com/watch?v=725WlG1idPc,1ea7601096f1e895b6ab80e4b822bf897716115b987a8031d4a05b40a0f92be2,Ellie Goulding - Love Me Like You Do (Official Audio),GBUM71406823
+23,"Sugar, Sugar",The Archies,,https://www.youtube.com/watch?v=Om5O6GL7cLY,b5972e082451ecb7ab32e4655b7de0f5e583c7a9790ccb41835ef4c8ae1d25bf,Sugar Sugar,NLG620400826
+24,I Follow Rivers (Live @ Giel),Triggerfinger,,https://www.youtube.com/watch?v=vYAejDztNhk,2d9a72523bbf0febd4a49b48faf5de4b4f15ba13e2d27efa55f739ae86ef5a73,Triggerfinger - I Follow Rivers (Radio Edit),BEN151200019
+25,Mr Boombastic,Shaggy,,https://www.youtube.com/watch?v=TeNjhglXm6w,0c543049d26185aadc9cb0e20453eb6cf9bf35ac958aefdf837483f4acc5aea5,Boombastic,FR8GV1904450
+26,Because You Loved Me,Celine Dion,,https://www.youtube.com/watch?v=fpl4if07ics,b8a1b24756ab73fa305a98b328a3521f91ef96be31287fe60016dc30f7a76930,"Céline Dion - Because You Loved Me (Theme from ""Up Close and Personal"")(Audio)",USSM19504296
 27,Whatever It Takes,Imagine Dragons,,,,,USUM71703515
 28,Take on Me,a-ha,,,,,USWB19901214
 29,I Believe,Joana Zimmer,,,,,DEN120408863
