@@ -25,30 +25,30 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 24,I Follow Rivers (Live @ Giel),Triggerfinger,,https://www.youtube.com/watch?v=vYAejDztNhk,2d9a72523bbf0febd4a49b48faf5de4b4f15ba13e2d27efa55f739ae86ef5a73,Triggerfinger - I Follow Rivers (Radio Edit),BEN151200019
 25,Mr Boombastic,Shaggy,,https://www.youtube.com/watch?v=TeNjhglXm6w,0c543049d26185aadc9cb0e20453eb6cf9bf35ac958aefdf837483f4acc5aea5,Boombastic,FR8GV1904450
 26,Because You Loved Me,Celine Dion,,https://www.youtube.com/watch?v=fpl4if07ics,b8a1b24756ab73fa305a98b328a3521f91ef96be31287fe60016dc30f7a76930,"Céline Dion - Because You Loved Me (Theme from ""Up Close and Personal"")(Audio)",USSM19504296
-27,Whatever It Takes,Imagine Dragons,,,,,USUM71703515
-28,Take on Me,a-ha,,,,,USWB19901214
-29,I Believe,Joana Zimmer,,,,,DEN120408863
-30,Hadschi Halef Omar,Dschinghis Khan,,,,,DEC717900083
-31,My Life Would Suck Without You,Kelly Clarkson,,,,,GBCTA0800348
-32,I Can See Clearly Now - Edit,Johnny Nash,,,,,GBBBN9999947
-33,Words - Original Version 1983,F.R. David,,,,,FR6V81029402
-34,You're The Greatest Lover,Luv',,,,,NLA307800001
-35,I Only Wanna Be with You,Bay City Rollers,,,,,USAR17600112
-36,Uptown Girl,Billy Joel,,,,,USSM18300270
-37,Step by Step,New Kids On The Block,,,,,USSM19917887
-38,Flashdance...What a Feeling - Radio Edit,Irene Cara,,,,,CAU118300354
-39,Solang' man Träume noch leben kann,Münchener Freiheit,,,,,DEE869700867
-40,Bad Habits,Ed Sheeran,,,,,GBAHS2100318
-41,Indianer,Pur,,,,,DEA349302123
-42,"It Must Have Been Love - From the Film ""Pretty Woman""",Roxette,,,,,SEAMA8777131
-43,Nessaja,Peter Maffay,,,,,DEA818300093
-44,I'm Outta Love - Radio Edit,Anastacia,,,,,USSM19925562
-45,Walk On the Wild Side,Lou Reed,,,,,USRC17201948
-46,Ruby,Kaiser Chiefs,,,,,GBDVX0600080
-47,Love Is In The Air,John Paul Young,,,,,AUAP07800004
-48,Bring It All Back,S Club,,,,,GBCVL9900001
-49,Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams),C & C Music Factory,,,,,USSM19000533
-50,Don't Stop The Music,Rihanna,,,,,USUM70734700
+27,Whatever It Takes,Imagine Dragons,,https://www.youtube.com/watch?v=gOsM-DYAEhY,bc1fb475968cf79f4db2926724971d003e46e24b50c6449558ab11c9c48cce67,Imagine Dragons - Whatever It Takes (Official Music Video),USUM71703515
+28,Take on Me,a-ha,,https://www.youtube.com/watch?v=djV11Xbc914,603e92df34d63bb3f7bddb4530c94b7fc1202af97ca1380c8430efb46a9f5116,a-ha - Take On Me (Official Video) [Remastered in 4K],USWB19901214
+29,I Believe,Joana Zimmer,,https://www.youtube.com/watch?v=5UUGt2p_hwY,bd2cda7b716db927bac4f1ca2bc17bd795106cf65d94b4b42f54b3a8a3f4d37f,Joana Zimmer - I Believe,DEN120408863
+30,Hadschi Halef Omar,Dschinghis Khan,,https://www.youtube.com/watch?v=bEhcJf8XFXE,728c44e5c048077eee8509958d419ebcd475059a6baa788a9816db1d899c890b,Hadschi Halef Omar,DEC717900083
+31,My Life Would Suck Without You,Kelly Clarkson,,https://www.youtube.com/watch?v=cRM70Jw7F4M,52e5cdab1e3893ff62bb72ce3daaeb65bfddc6a2ee6ce5f227711a20e73fae60,Kelly Clarkson - My Life Would Suck Without You,GBCTA0800348
+32,I Can See Clearly Now,Johnny Nash,,https://www.youtube.com/watch?v=b0cAWgTPiwM,c40291dce7f4f8c395ab41c32dfbe1f2c620990e4adc130611415ea46c20208a,Johnny Nash - I Can See Clearly Now (Official Audio),GBBBN9999947
+33,Words,F.R. David,,https://www.youtube.com/watch?v=nwrqQ2jYpwY,ed6d2c79464cc461558c121b8bdae2aea366bd480859648638aba9aa9eaa89dc,Words (Original Version 1983),FR6V81029402
+34,You're The Greatest Lover,Luv',,https://www.youtube.com/watch?v=OO8pvsa3MGw,48a79647c67becad6a85803679ac7b41b6ea2264a39d2be742e276567fdde15f,You're The Greatest Lover,NLA307800001
+35,I Only Wanna Be with You,Bay City Rollers,,https://www.youtube.com/watch?v=wTADOT31rnQ,f7905f8ba191e620f7b67fb71e358525bb441265c5f549c94396cd3214e61ec2,I Only Wanna Be with You,USAR17600112
+36,Uptown Girl,Billy Joel,,https://www.youtube.com/watch?v=o-0Oect0nVQ,6f7b67ecf25a3d2c5bdbad5b409e65e46e14f1d3fffd45ca329777ee198241c8,Billy Joel - Uptown Girl (Audio),USSM18300270
+37,Step by Step,New Kids On The Block,,https://www.youtube.com/watch?v=GDEDQ8TCzW8,ff3dc49e1acd33422f911101c244eac00d3cfae5c7c91efb2ea35502687cd304,Step by Step,USSM19917887
+38,Flashdance...What a Feeling,Irene Cara,,https://www.youtube.com/watch?v=Q4TK82N1nEk,cfa805556be83c4d7d1f01126513f573026eae9601c6cc7b7241185665619071,Flashdance… What A Feeling,CAU118300354
+39,Solang' man Träume noch leben kann,Münchener Freiheit,,https://www.youtube.com/watch?v=MfhWdhHV6fw,67e3ac82e8137ad16117c233f5ed7fa40fb9bc3b706259ee80811a7af11670c2,Solang man Träume noch leben kann,DEE869700867
+40,Bad Habits,Ed Sheeran,,https://www.youtube.com/watch?v=HeOpRzcqKrE,76d22539d939804835a0577ed94efb3652305f30c5816424db9a6234c83d7648,Ed Sheeran - Bad Habits [Official Lyric Video],GBAHS2100318
+41,Indianer,Pur,,https://www.youtube.com/watch?v=_WfxKi2o8_A,965fe535f9ca7f82b10f8436d2791fb131bc9481936049b901a22cfd2da4769c,Indianer,DEA349302123
+42,It Must Have Been Love,Roxette,,https://www.youtube.com/watch?v=k2C5TjS2sh4,51afce2b1c06a2b7c0a25884a729db9830f02b126b46fd6d508add2710e443c8,Roxette - It Must Have Been Love (Official Music Video),SEAMA8777131
+43,Nessaja,Peter Maffay,,https://www.youtube.com/watch?v=sNm7WmIxgec,7b71fb2b02e257e766a3cf6428c9239fd623e9193050df0bf364d9e62a9a959b,Nessaja,DEA818300093
+44,I'm Outta Love,Anastacia,,https://www.youtube.com/watch?v=EpTgryswsZQ,4451c151864535711f2becb36531612a841b2f6f7df9cfbb49543fa500f0fcfd,I'm Outta Love,USSM19925562
+45,Walk On the Wild Side,Lou Reed,,https://www.youtube.com/watch?v=oG6fayQBm9w,f71128137aa6fe0483964046ce3694956a95808c7579103f2462ed82da2dc8c3,Lou Reed - Walk on the Wild Side (Official Audio),USRC17201948
+46,Ruby,Kaiser Chiefs,,https://www.youtube.com/watch?v=Q2IeFx48Bas,f77bbdbee17511bca74e137daf3c35d1eb37f6d8e9e73b9687b9620074356a42,Ruby,GBDVX0600080
+47,Love Is In The Air,John Paul Young,,https://www.youtube.com/watch?v=ZWzWL-S05fg,962e987611afe71bd9fdae009fb715c2211c95e9a74afddae382890a8ab99011,Love Is in the Air,AUAP07800004
+48,Bring It All Back,S Club,,https://www.youtube.com/watch?v=G-vBymB7sNQ,8daee990f921e695508fe734f0394948d940a910dc32362911954b237f4a0358,Bring It All Back,GBCVL9900001
+49,Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams),C & C Music Factory,,https://www.youtube.com/watch?v=dQSNpUahA-I,0e85c4d1c29d1ff557a859eeb4d7cb34d8cbfd2e4bd3f097f6460b6ba0d574ae,Gonna Make You Sweat (Everybody Dance Now),USSM19000533
+50,Don't Stop The Music,Rihanna,,https://youtu.be/yd8jh9QYfEs?t=12,b0ebc7ba636fe53865d629a8ef768aa917db75f5c3836c446bd8086124a8809c,Rihanna - Don't Stop The Music,USUM70734700
 51,It's Now or Never,Elvis Presley,,,,,USRC10200339
 52,Kings & Queens,Ava Max,,,,,USAT21906943
 53,New Age,Marlon Roudette,,,,,GB27E1100001
