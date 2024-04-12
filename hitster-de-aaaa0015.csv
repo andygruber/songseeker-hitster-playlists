@@ -49,41 +49,41 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 48,Bring It All Back,S Club,,https://www.youtube.com/watch?v=G-vBymB7sNQ,8daee990f921e695508fe734f0394948d940a910dc32362911954b237f4a0358,Bring It All Back,GBCVL9900001
 49,Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams),C & C Music Factory,,https://www.youtube.com/watch?v=dQSNpUahA-I,0e85c4d1c29d1ff557a859eeb4d7cb34d8cbfd2e4bd3f097f6460b6ba0d574ae,Gonna Make You Sweat (Everybody Dance Now),USSM19000533
 50,Don't Stop The Music,Rihanna,,https://youtu.be/yd8jh9QYfEs?t=12,b0ebc7ba636fe53865d629a8ef768aa917db75f5c3836c446bd8086124a8809c,Rihanna - Don't Stop The Music,USUM70734700
-51,It's Now or Never,Elvis Presley,,,,,USRC10200339
-52,Kings & Queens,Ava Max,,,,,USAT21906943
-53,New Age,Marlon Roudette,,,,,GB27E1100001
-54,Tainted Love,Soft Cell,,,,,GBF088100017
-55,"Marie, der letzte Tanz ist nur für dich",Rex Gildo,,,,,DEA817400020
-56,Say It Right,Nelly Furtado,,,,,USUM70603368
-57,Back for Good - Radio Mix,Take That,,,,,GBARL9500020
-58,Shake It Off,Taylor Swift,,,,,USCJY1431349
-59,How Will I Know (Who You Are),Jessica Folcker,,,,,NLA379800019
-60,Marvin Gaye (feat. Meghan Trainor),Charlie Puth,,,,,USAT21500254
-61,Hotel California - 2013 Remaster,Eagles,,,,,USEE11300353
-62,Komm gib mir deine Hand,Tony Marshall,,,,,DEC717100004
-63,Schickeria,Spider Murphy Gang,,,,,DEA348101052
-64,"Ja, ja, die Katja, die hat ja",Heino,,,,,DEA348000473
-65,Als wär's das erste Mal,Unheilig,,,,,DEUM71400175
-66,Amazing,INNA,,,,,ROROT0901606
-67,Bye Bye Bye,*NSYNC,,,,,USJI10000001
-68,"Baby, Baby",Amy Grant,,,,,USSP30765178
-69,Sexbomb,Tom Jones,,,,,GBBRL9970040
-70,Up Where We Belong,Joe Cocker,,,,,USIR28200024
-71,Domino,Jessie J,,,,,USUM71113573
-72,Hold My Hand,Lady Gaga,,,,,USUM72206231
-73,It's Raining Men,The Weather Girls,,,,,USSM19913325
-74,Mit 17 hat man noch Tr�ume,Peggy March,,,,,DEC766500001
-75,Sommernacht in Rom,G.G. Anderson,,,,,DEC738800042
-76,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,Brian Hyland,,,,,USMC16051029
-77,Post Malone (feat. RANI),Sam Feldt,,,,,NLZ541900734
-78,Nächstes Mal am Ende der Welt,Valeries Garten,,,,,DEU200600198
-79,More Than This,Roxy Music,,,,,GBAAA9900092
-80,Come On Eileen,Dexys Midnight Runners,,,,,GBF088200006
-81,Heaven Must Be Missing An Angel - Pt. 1,Tavares,,,,,USCA28900559
-82,I Don't Feel Like Dancin',Scissor Sisters,,,,,GBUM70602587
-83,Let's Twist Again,Chubby Checker,,,,,USA176140170
-84,Bamboléo,Gipsy Kings,,,,,GBARL0700397
-85,Herzbeben,Helene Fischer,,,,,DEUM71704905
+51,It's Now or Never,Elvis Presley,,https://www.youtube.com/watch?v=Uwelrtb8Oho,185b54c2ca9ac5e3ea886de47d991c824e76bd7c6551870661d87cb0c4dfc38f,Elvis Presley - It's Now or Never (Official Audio),USRC10200339
+52,Kings & Queens,Ava Max,,https://www.youtube.com/watch?v=jH1RNk8954Q,86ffc1e627f228de25d441fdd43b1bb506602d5869891f3e1db7750d77d79825,Ava Max - Kings & Queens [Official Music Video],USAT21906943
+53,New Age,Marlon Roudette,,https://youtu.be/Jk5kYjD9E1I?t=5,1a9ddee9c49c0a4e4098e8f8688d7d0d2a8b38c8cccd360948f4a02b2819482b,Marlon Roudette - New Age (Official Music Video),GB27E1100001
+54,Tainted Love,Soft Cell,,https://www.youtube.com/watch?v=iNrHoGi4E6w,36da718a56ba63386545693769e6cba5acf887f63b56963b99c414ee1d492b75,Tainted Love,GBF088100017
+55,"Marie, der letzte Tanz ist nur für dich",Rex Gildo,,https://www.youtube.com/watch?v=3nJJGqBhZlk,56bac443f099b5011a30bd005c9bf55afc0bbe56e742436b10154d86105d8fda,"Marie, der letzte Tanz ist nur für dich",DEA817400020
+56,Say It Right,Nelly Furtado,,https://www.youtube.com/watch?v=bBHGHa8AahM,413fc495b8e3c93f550acc843e1f18beaeeb75ce9453b001cba1b71edcea4a47,Say It Right (Radio Edit),USUM70603368
+57,Back for Good,Take That,,https://www.youtube.com/watch?v=N2ICtCO8TCw,92fa212fba71ce8181419ca40ca0c5c9f9405aac25abe25f95b711daeb014fd5,Take That - Back for Good (Official Video),GBARL9500020
+58,Shake It Off,Taylor Swift,,https://www.youtube.com/watch?v=nfWlot6h_JM,257b398604d6195f01db10513216df89f6ab6dd1bbc8c0b4a078f269372d11bd,Taylor Swift - Shake It Off,USCJY1431349
+59,How Will I Know (Who You Are),Jessica Folcker,,https://www.youtube.com/watch?v=5sJ4oxGDqzQ,cf427acab355d70a5f22c3a39a6426577dbbf1a576995033da95f640374fdeba,How Will I Know (Who You Are),NLA379800019
+60,Marvin Gaye (feat. Meghan Trainor),Charlie Puth,,https://youtu.be/igNVdlXhKcI?t=9,ec47491e17b2c2f81e774e154c4b45041110c52c8d3b33cce147e95d1c1fa418,Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video],USAT21500254
+61,Hotel California,Eagles,,https://www.youtube.com/watch?v=BciS5krYL80,aef08fbc03eb9fd6757402c8b0aea669776b5a4838a09d91f9a1956b1e6d8e84,Hotel California (2013 Remaster),USEE11300353
+62,Komm gib mir deine Hand,Tony Marshall,,https://www.youtube.com/watch?v=If40-PyRyxA,96a466eebb3df8b349e8eb103948c9d032d0468e20ffed456d2ceb3ac4fd71e7,Komm gib mir deine Hand,DEC717100004
+63,Schickeria,Spider Murphy Gang,,https://www.youtube.com/watch?v=Ity1AA7pnFM,e1c216e711525ff3e8d7b8edc350769a6d89799e88645ecb04a0e1ecc852b01b,Schickeria,DEA348101052
+64,"Ja, ja, die Katja, die hat ja",Heino,,https://www.youtube.com/watch?v=DJnaeEZS3go,40cd4c591199ceaeb35b26b25b938ef4af3d0b4238ac88e5c51e97f84ea051d1,"Ja, ja, die Katja, die hat ja",DEA348000473
+65,Als wär's das erste Mal,Unheilig,,https://www.youtube.com/watch?v=R5ZWrQ-MX6Q,9c92cdccffe2fae888cd27f02dc90c3f3128737df90cb969d982501233d8d2d8,Als wär's das erste Mal,DEUM71400175
+66,Amazing,INNA,,https://www.youtube.com/watch?v=czRYJCzGO3A,c7db88d886f20fb88f5383f3efe2479c337a6577c309eff3698d76a5fcc6f190,INNA - Amazing | Official Single (by Play & Win),ROROT0901606
+67,Bye Bye Bye,*NSYNC,,https://www.youtube.com/watch?v=C27NShgTQE4,e06fde0a1eb9ceda207c4c4009a71465976a36ca552c2f790b03447ac24d002b,*NSYNC - Bye Bye Bye (Official Audio),USJI10000001
+68,"Baby, Baby",Amy Grant,,https://www.youtube.com/watch?v=_YrNW2RtOH4,a6271956f15b3ccd4d04b7887c21a33d239a57c063aba26da6171dd22ac8f69c,Baby Baby (2021 Remastered Version),USSP30765178
+69,Sexbomb,Tom Jones,,https://www.youtube.com/watch?v=KfGHjjovIe8,2fb35c615fee56d9e1463eb37cd2f053848690cde48da81e7352cadb1449d979,Sexbomb,GBBRL9970040
+70,Up Where We Belong,Joe Cocker,,https://www.youtube.com/watch?v=Xlsx_CG02UE,d584e30fd47c4d33390818887a2508740f5d4620c89238f982d80bd661f53f71,Up Where We Belong,USIR28200024
+71,Domino,Jessie J,,https://www.youtube.com/watch?v=FMtgC9lYt2w,1ca25d7dd430e99eed1c2ddffb243e5631bba2be8a308dd4d42e06faba53bc68,Domino,USUM71113573
+72,Hold My Hand,Lady Gaga,,https://www.youtube.com/watch?v=O2CIAKVTOrc,bd5bd0753859e54aabe6f33dd04f832734af12718a2471fd24df79877cf9bb76,Lady Gaga - Hold My Hand (From “Top Gun: Maverick”) [Official Music Video],USUM72206231
+73,It's Raining Men,The Weather Girls,,https://www.youtube.com/watch?v=4x6leDGV7gs,0b859c086bd5d3f4df259acc46a97d962bd5ddb0a6a9ab41e3021f7ac5e9529a,It's Raining Men,USSM19913325
+74,Mit 17 hat man noch Träume,Peggy March,,https://www.youtube.com/watch?v=VmR0DapFn6U,a9270c7905dffcc8fd06fbcb217979aedfdd737da31c501cf9ee0389b6495e6b,Mit 17 hat man noch Träume,DEC766500001
+75,Sommernacht in Rom,G.G. Anderson,,https://www.youtube.com/watch?v=qJiJ1NuV7ok,ba6303422dddb7b81453c24c1f6cbbb4afa1c92d9419eeca80ab6a2f1e923e51,G.G.Anderson - Sommernacht In Rom,DEC738800042
+76,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,Brian Hyland,,https://www.youtube.com/watch?v=n56E3kScoN8,c840052b9b4f3f95235356d1ec554c0aedd4489c7f94b7265c0c7b75501b1518,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,USMC16051029
+77,Post Malone (feat. RANI),Sam Feldt,,https://www.youtube.com/watch?v=c42wPUQpZ84,8d7f259215c10b52ec312bd4e727b1d1f9e129ff049a509d3b04639f6a322659,Post Malone (feat. RANI),NLZ541900734
+78,Nächstes Mal am Ende der Welt,Valeries Garten,,https://www.youtube.com/watch?v=wmRqLQAnwJ8,d249a7f57d1fd8c599691bb1df97d065e1e01b900a509534ef859ed783869ae1,Nächstes Mal am Ende der Welt,DEU200600198
+79,More Than This,Roxy Music,,https://www.youtube.com/watch?v=wwXtPu-iA4Q,d8badfcc56a9e17fd4a5c9ff988c2799054af889aa8acf88dd06fc2d040290f4,More Than This,GBAAA9900092
+80,Come On Eileen,Dexys Midnight Runners,,https://www.youtube.com/watch?v=HwVnX4ZgliY,4b9ad7516e372d9feaedab1be4a66c93fcdff501ca8fd17e90003240294455c3,Come On Eileen (Single Edit),GBF088200006
+81,Heaven Must Be Missing An Angel - Pt. 1,Tavares,,https://www.youtube.com/watch?v=bd0E1FAE2xs,1406d32bb66abb277cbd91e84fae4e3ef54172bc94edaccb5aee5df301c4fb01,Heaven Must Be Missing An Angel (Pt. 1),USCA28900559
+82,I Don't Feel Like Dancin',Scissor Sisters,,https://www.youtube.com/watch?v=JBUs7P2kIAs,d329c62a47ed071bcce20b129b39d49c3279aec47789b1447027114278729aab,I Don't Feel Like Dancin',GBUM70602587
+83,Let's Twist Again,Chubby Checker,,https://www.youtube.com/watch?v=Frw7U5X8dhg,fb85ec2cb4e037501658ca07177fbe9fd7b209fa622ccc741dca601f8b54ab6e,Let's Twist Again,USA176140170
+84,Bamboléo,Gipsy Kings,,https://www.youtube.com/watch?v=NhGAQ6fjJxo,597b3b8a7cfc87f641b2fabf3b0cd181299fdb34adf6f0d2691e7bce93a1f1ca,Gipsy Kings - Bamboléo (Audio),GBARL0700397
+85,Herzbeben,Helene Fischer,,https://www.youtube.com/watch?v=8ySJJMu8ReY,5f6f25b9db2eac6779768c129205611c0aa67ef6b27ac01ca4d3d04efe3d9f48,Herzbeben,DEUM71704905
 86,I Kissed A Girl,Katy Perry,,,,,USCA20801738
 87,Ironic,Alanis Morissette,,,,,USMV29400003
 88,Mercy,Shawn Mendes,,,,,USUM71603531
@@ -105,7 +105,7 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 104,Weather With You,Crowded House,,,,,USCA29100164
 105,Downtown,Petula Clark,,,,,FRZ196400510
 106,Felicità,Al Bano And Romina Power,,,,,USBI10000114
-107,Ich bin nicht mehr dein Clown - Original Version,Olaf Henning,,,,,DEG419700001
+107,Ich bin nicht mehr dein Clown,Olaf Henning,,,,,DEG419700001
 108,9 to 5,Dolly Parton,,,,,USRN19400384
 109,Don't Worry Be Happy,Bobby McFerrin,,,,,USEM38800361
 110,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Four Tops,,,,,USMO16582593
@@ -121,7 +121,7 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 120,(Is This The Way To) Amarillo,Tony Christie,,,,,USMC10200219
 121,Book Of Love (feat. Polina),Felix Jaehn,,,,,DEUM71502573
 122,"Küss mich, Halt mich, Lieb mich (Drei Haselnüsse für Aschenbrödel)",Ella Endlich,,https://www.youtube.com/watch?v=QBsIDPi3kko,,,DEZ651214396
-123,Mamma Mia,ABBA,https://www.youtube.com/watch?v=U4Sm7v6PDY8,,,,SEAYD7501010
+123,Mamma Mia,ABBA,,https://www.youtube.com/watch?v=U4Sm7v6PDY8,,,SEAYD7501010
 124,Girl on Fire,Alicia Keys,,,,,USRC11201015
 125,Light My Fire,The Doors,,,,,USEE19900203
 126,Blueprint,Rainbirds,,,,,DEF078703100
