@@ -36,7 +36,7 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 35,The Hollies,He Ain't Heavy He's My Brother,https://www.youtube.com/watch?v=eUWZqbumaZo,19873dc87f1eb88418087981d29238542530f54127482fc0b3675e8d059f3fe5,"The Hollies: He Ain’t Heavy, He’s My Brother (2019 Remaster Video)",1969
 36,Jürgen Marcus,Eine neue Liebe ist wie ein neues Leben,https://www.youtube.com/watch?v=TGMSNWOzhtM,003ac5551c39a64a6dd76f49843a1fdf0f1def58ddd549f42a62e50895d0b50f,Eine neue Liebe ist wie ein neues Leben (2009),1972
 37,The Bangles,Manic Monday,https://www.youtube.com/watch?v=SsmVgoXDq2w,b66a4a1d6b78d7b0cf71295259c454daa5985fc8c9a8a3e7caef64160a074f02,The Bangles - Manic Monday (Official Video),1986
-38,Meat Loaf,Paradise By the Dashboard Light,https://www.youtube.com/watch?v=C11MzbEcHlw,10aa8dcac3ab5738f16007e213a5330e1c5bd332508d598c9918212fa3113452,Meat Loaf - Paradise By The Dashboard Light,1977
+38,Meat Loaf,Paradise By the Dashboard Light,https://www.youtube.com/watch?v=C11MzbEcHlw,10aa8dcac3ab5738f16007e213a5330e1c5bd332508d598c9918212fa3113452,Meat Loaf - Paradise By The Dashboard Light,1978
 39,Limahl,Never Ending Story,https://www.youtube.com/watch?v=Gf1WT8VEZxk,57c12f7d5a89ef1c0b629bc651fb7cdbaa4f37abb7bfa4a444c166f176aec9f5,Limahl - Never Ending Story - 1984,1984
 40,Mabel,Don't Call Me Up,https://www.youtube.com/watch?v=9TQKyDD9Yig,ec2cec1298fae6ccfb7ea86dec53462d8a448c112563a3fea93f4b95f1fccffd,Mabel - Don't Call Me Up (Official Video),2017
 41,Red Hot Chili Peppers,Under the Bridge,https://www.youtube.com/watch?v=GLvohMXgcBo,0e49a9153d69eaf48a351487d70e5ef54902a5b31ffbed0df6bebb6c81cf4fc3,Red Hot Chili Peppers - Under The Bridge [Official Music Video],1992
@@ -62,8 +62,8 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 61,Neil Diamond,Sweet Caroline,https://www.youtube.com/watch?v=4F_RCWVoL4s,23a1e787e4963cad9614f3c7e4ea73051c124b4fc71a494553aa51ad1294b2ca,Neil Diamond - Sweet Caroline (Audio),1969
 62,Manfred Mann,Do Wah Diddy Diddy,https://www.youtube.com/watch?v=1UingsUi0mI,462e7b973ae8eabf2af29d5af045c47986fc281f1fb78b1362d2ecb81176c884,Do Wah Diddy Diddy,1964
 63,Karat,Über sieben Brücken musst du gehn,https://www.youtube.com/watch?v=28MMYPoG8ag,3df8d0053c7a1ad0b0cab4f8ef89ec17332acf379f11f4a9ba478b3612046564,Karat - Über sieben Brücken musst du geh'n (Die aktuelle Schaubude 17.05.1980),1979
-64,Thelma Houston,Don't Leave Me This Way,https://www.youtube.com/watch?v=rUdw7V-FC_Q,f168a443fe058bb2d39cff030657bb0cd5406dfc8da7e22848cde7c03cd81210,Don't Leave Me This Way,1986
-65,Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),https://www.youtube.com/watch?v=96L5sV7rqX0,ec1d9d319ec12cc4aa53f735d26fbbcbd16401d41a1df1313a884549146bf178,Can't Hold Us (feat. Ray Dalton),2012
+64,Thelma Houston,Don't Leave Me This Way,https://www.youtube.com/watch?v=rUdw7V-FC_Q,f168a443fe058bb2d39cff030657bb0cd5406dfc8da7e22848cde7c03cd81210,Don't Leave Me This Way,1976
+65,Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),https://www.youtube.com/watch?v=96L5sV7rqX0,ec1d9d319ec12cc4aa53f735d26fbbcbd16401d41a1df1313a884549146bf178,Can't Hold Us (feat. Ray Dalton),2011
 66,Enrique Iglesias,Do You Know? (The Ping Pong Song),https://www.youtube.com/watch?v=UqON44CLaQM,ba157323ec96dcb652ce10178032bb5d437f1dd39526e74f3655dfb4b75b7a6a,Enrique Iglesias - Do You Know? (The Ping Pong Song),2007
 67,Tic Tac Toe,Warum?,https://www.youtube.com/watch?v=S2lWV74yZ5o,e56224e55a5bd938346f440ca2cdf42729698467d29c238c7fb3a65ed064350f,TIC TAC TOE - Warum? (Für Melanie) (Musikvideo),1997
 68,Eddy Grant,Gimme Hope Jo'Anna,https://www.youtube.com/watch?v=3P-imA4618Y,c3af2223739dd4daff7c1233c990ceb88941b1c49f448158167e128329076211,Eddy Grant - Gimme Hope Jo'Anna (Official Video),1988
@@ -125,7 +125,7 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 124,"Mark Ronson, Amy Winehouse",Valerie (feat. Amy Winehouse),https://www.youtube.com/watch?v=bixuI_GV5I0,6a5c6885b5003780be74db9a294f157a754b460ba02a4f8d6c84b192a01e7c64,Mark Ronson ft. Amy Winehouse - Valerie (Official Video),2007
 125,Sam Cooke,(What A) Wonderful World,https://www.youtube.com/watch?v=R4GLAKEjU4w,91124220bb99da989fc572f9c5a3e6ee3b6c7049138b4d3d86d9719dfbe53b69,Sam Cooke - What A Wonderful World (Official Lyric Video),1960
 126,Herbert Grönemeyer,Männer,https://www.youtube.com/watch?v=UEJNMkEr1Ls,8afe74e1fd3f675f59b8e1cd72820028d2bf2a53121f69df74a219704014af5b,Herbert Grönemeyer Männer,1984
-127,New Radicals,You Get What You Give,https://www.youtube.com/watch?v=DL7-CKirWZE,213f1610c0822e003aac9dfa5fc861c3d5e32903904700a4342638a4efa77fda,New Radicals - You Get What You Give (Official Music Video),1988
+127,New Radicals,You Get What You Give,https://www.youtube.com/watch?v=DL7-CKirWZE,213f1610c0822e003aac9dfa5fc861c3d5e32903904700a4342638a4efa77fda,New Radicals - You Get What You Give (Official Music Video),1998
 128,Heintje,Mama,https://www.youtube.com/watch?v=u0yqKrGKukE,c19d87e9bac904df82aeade04dc10501c5a33e31d8a8aa29f6cf853960134018,Heintje - Mama (German version),1968
 129,Celine Dion,My Heart Will Go On,https://www.youtube.com/watch?v=9bFHsd3o1w0,9a03e20bb4e66cfffcb5cdeeb5c4750efa106d43326d561ab2c5bdfb6620b208,Céline Dion - My Heart Will Go On (Official 25th Anniversary Alternate Music Video),1997
 130,Lionel Richie,Dancing On The Ceiling,https://www.youtube.com/watch?v=ovo6zwv6DX4,8af330205e51cfe7b5ac16b184ea2eb1664ddd7cacb2da579a78fae713202f7f,Lionel Richie - Dancing On The Ceiling,1986
@@ -140,7 +140,7 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 139,Die Ärzte,Westerland,https://www.youtube.com/watch?v=G-NrSn3K6gM,4eef0c74ac30027a6f331ccaefc6bd4efb58039b0eedb5c1c2a688a80ef6fcc0,Die Ärzte - Westerland,1988
 140,The Police,Every Breath You Take,https://www.youtube.com/watch?v=OMOGaugKpzs,b76d28067187df678c0ec77d5b5d7e7ccb97674c33b0e01390a179add62e12c8,The Police - Every Breath You Take (Official Music Video),1983
 141,The Verve,Bitter Sweet Symphony,https://www.youtube.com/watch?v=1lyu1KKwC74,bc487057389be8a9756812a9fe0f147f9477c47bf1a9f651963558bb49356f33,The Verve - Bitter Sweet Symphony,1997
-142,Will Smith,Gettin' Jiggy Wit It,https://www.youtube.com/watch?v=3JcmQONgXJM,65b22f5c758b3e945a8a8f775d0932a3ba99197eee7ede437e0fb4c520594ae1,Will Smith - Gettin' Jiggy Wit It,1997
+142,Will Smith,Gettin' Jiggy Wit It,https://www.youtube.com/watch?v=3JcmQONgXJM,65b22f5c758b3e945a8a8f775d0932a3ba99197eee7ede437e0fb4c520594ae1,Will Smith - Gettin' Jiggy Wit It,1998
 143,Aqua,Barbie Girl,https://www.youtube.com/watch?v=ZyhrYis509A,4ec84791e752727447fee9409ad9b992b875260dc520cb91a7fa812ef0b966e4,Aqua - Barbie Girl (Official Music Video),1997
 144,Cornelia Froboess,Pack Die Badehose Ein,https://www.youtube.com/watch?v=Jq755GRl4E0,ed8a0fbc2b6d186ef8172c76c7214241fbefcd6912db5dab5901369b585fdff5,Pack die Badehose ein,1951
 145,Natalie Imbruglia,Torn,https://www.youtube.com/watch?v=VV1XWJN3nJo,9554dbb66651062b6373814367c59d3dc41239309865b5a07694a06df49178b0,Natalie Imbruglia - Torn (Official Video),1997
@@ -150,7 +150,7 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 149,Olivia Rodrigo,drivers license,https://www.youtube.com/watch?v=ZmDBbnmKpqQ,dc1d06e68090195f0333b79562a2001c0db8b35712e9901056dfa5fe16ae1bcb,Olivia Rodrigo - drivers license (Official Video),2021
 150,"Maroon 5, Christina Aguilera",Moves Like Jagger,https://www.youtube.com/watch?v=iEPTlhBmwRg,2b716c86361ebe3c0f510d0bc0c265eaaf9d6b92d66a27aff317e92c8bd3727f,Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Official Music Video),2011
 151,Helene Fischer,Atemlos durch die Nacht,https://www.youtube.com/watch?v=haECT-SerHk,db46985e2263c973a48b0fb582c42a76c14c824993c6c7486303e2ad4c7128b5,Helene Fischer - Atemlos durch die Nacht,2013
-152,Spice Girls,Stop,https://www.youtube.com/watch?v=5JD6ejmlpa8,5e7ebfd261089369cd98c071aac6b350e188ddaafc988438855509970975c78e,Spice Girls - Stop (Official Music Video),1997
+152,Spice Girls,Stop,https://www.youtube.com/watch?v=5JD6ejmlpa8,5e7ebfd261089369cd98c071aac6b350e188ddaafc988438855509970975c78e,Spice Girls - Stop (Official Music Video),1998
 153,Jennifer Lopez,If You Had My Love,https://www.youtube.com/watch?v=lYfkl-HXfuU,e079687389041a494a6f98606b6d095ac9567a43af55e8f9419f05fdc42bdd86,Jennifer Lopez - If You Had My Love (Official Video),1999
 154,Boston,More Than a Feeling,https://www.youtube.com/watch?v=DCZNFmHJbV8,47c53cc35a5ce8cbee2606458147d577159f9313b59230c8833eff224c75704e,More Than a Feeling,1976
 155,The Trammps,Disco Inferno,https://www.youtube.com/watch?v=pG8TyIEAqps,f15ee3131a2d908968d9b121926bf4e113a6adaf588f9c5c5a39bbb6a7fe1b49,Disco Inferno (Edit),1976
@@ -226,7 +226,7 @@ Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
 225,Lenny Kravitz,Fly Away,https://www.youtube.com/watch?v=EvuL5jyCHOw,22ac06d7b5f66eae30835879a0bfa2e76c072dcff6334dfebf8755b09c199d33,Lenny Kravitz - Fly Away (Official Music Video),1998
 226,Bronski Beat,Smalltown Boy,https://www.youtube.com/watch?v=88sARuFu-tc,4854a0c51fd1d119b8e04e79528844b7e915fc8a4223f5c2e4ee3ce6280b3552,Bronski Beat - Smalltown Boy (Official Video),1984
 227,Johnny Cash,Ring of Fire,https://www.youtube.com/watch?v=1WaV2x8GXj0,55ed1d5ee92da1b861b27d8782c3057a5b8ad2ef93537220ea7fd48cef46281f,Ring of Fire,1963
-228,Nancy Sinatra,These Boots Are Made for Walkin',https://www.youtube.com/watch?v=GM1kzbAgo_E,c4b630358560e4b898aa79ea3b904648939bc1df7f66ba68a3647b4c122feeb9,Nancy Sinatra - These Boots Are Made For Walkin' (Official Music Video),1966
+228,Nancy Sinatra,These Boots Are Made for Walkin',https://www.youtube.com/watch?v=GM1kzbAgo_E,c4b630358560e4b898aa79ea3b904648939bc1df7f66ba68a3647b4c122feeb9,Nancy Sinatra - These Boots Are Made For Walkin' (Official Music Video),1965
 229,Jessie J,Price Tag ft. B.o.B,https://www.youtube.com/watch?v=qMxX-QOV9tI,5345f48b25f516529c3d567e59c8278a418c3f5cc15c2d6f7b26adf089cb215d,Jessie J - Price Tag ft. B.o.B,2011
 230,"Caterina Valente, Silvio Francesco",Itsy Bitsy Teenie Weenie Honolulu Strand Bikini,https://www.youtube.com/watch?v=xxSPQGaGqd0,b3d47ca4c341af388a930d15c25641b0f9b94d871d444f2f7576e52fb3f72ef7,Itsy Bitsy Teenie Weenie Honolulu Strand Bikini,1960
 231,Snow,Informer,https://www.youtube.com/watch?v=TSffz_bl6zo,f343f18882713c1d6ad1d79d11551e1763604c7662d048477e266fe64a27a4f5,Snow - Informer (Official Music Video) [4K Remaster],1992
