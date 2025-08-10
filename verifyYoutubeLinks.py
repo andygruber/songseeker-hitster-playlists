@@ -78,6 +78,8 @@ def process_csv(input_file, output_file, start_row, end_row, check_only=False, b
             chrome_options = Options() 
             chrome_options.add_argument("--headless")
             chrome_options.add_argument("--log-level=3")
+            chrome_options.add_argument("--disable-gpu")
+            chrome_options.add_argument("--incognito")
             driver = webdriver.Chrome(options=chrome_options)
 
         for row in reader:
