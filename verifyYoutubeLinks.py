@@ -56,6 +56,7 @@ def check_and_update_row(row, current_title, current_hashed_info, check_mode):
 def process_csv(input_file, output_file, start_row, end_row, check_only=False, browser_automation=False):
     mismatches = 0
     matches = 0
+    errors = 0
     current_row_number = 0  # Track the current row number
 
     with open(input_file, mode='r', newline='', encoding='utf-8') as infile:
@@ -103,8 +104,9 @@ def process_csv(input_file, output_file, start_row, end_row, check_only=False, b
             current_title, current_hashed_info, error = query_youtube_oembed(video_url)
             
             if error:
-                print(f"Error processing video {video_url}: {error}", file=sys.stderr)
+                print(f"Error processing video for card# {cardnr}, video url: {video_url}: {error}", file=sys.stderr)
                 row["Youtube-Title"] = "ERROR"
+                errors += 1
             else:
                 updated, mismatch_found = check_and_update_row(row, current_title, current_hashed_info, check_only)
                 if mismatch_found:
@@ -123,7 +125,7 @@ def process_csv(input_file, output_file, start_row, end_row, check_only=False, b
             if not browser_automation:
                 time.sleep(1)  # Throttle requests, browser automation already throttles
 
-        print(f"Done. {matches} matches, {mismatches} mismatches.")
+        print(f"Done. {matches} matches, {mismatches} mismatches, {errors} errors.")
 
         if output_file:
             outfile.close()
