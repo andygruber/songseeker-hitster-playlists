@@ -9,7 +9,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 8,Gipsy Kings,Volare (Nel Blu Di Pinto Di Blu),1989,https://www.youtube.com/watch?v=X8TOhb_4jU0,Gipsy Kings - Volare (Nel Blu di Pinto di Blu) (Official HD Video),9ce3db1bfeb26833f296d4b2ecce7a8fc32227d71fbe21d0f20bdefb23a08a15
 9,Kaoma,Lambada,1989,https://www.youtube.com/watch?v=iyLdoQGBchQ,Kaoma - Lambada (Official Video) 1989 HD,1e2a5209d82e86adec26543755857b74204ec1168380705266e44b23765b6ff2
 10,The Carpenters,Top Of The World,1973,https://www.youtube.com/watch?v=yUMAmI5YcBQ,The Carpenters -   Top Of The World   --  HQ Audio -- Lyrics,eb7e9e62a556a2e8f7c5e6ea701f8c827a9618582f03f061a1ad8db6f41fa35a
-11,Emma Franklin,Piece Of My Heart,1967,https://www.youtube.com/watch?v=L0QAxIKf8G4,Erma Franklin - Piece of My Heart (Video),7d5674fc951c76a69d0c374d68621127336d115c2a7a39c201f8a842f4c31344
+11,Emma Franklin,Piece Of My Heart,1967,https://www.youtube.com/watch?v=L0QAxIKf8G4,Erma Franklin - Piece of My Heart (Official Video),aaf92635b14f5f7089ab06b2bb8434bbc23916b8396c3519d618f26b598671c9
 12,Rick Astley,Never Gonna Give You Up,1987,https://www.youtube.com/watch?v=dQw4w9WgXcQ,Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster),efa0cf5d3eb7dc217cb21290b1ab6b6ba1e5a4d4c673a3da861ee76ec4c35079
 13,Irene Cara,Flashdance... What A Feeling,1983,https://www.youtube.com/watch?v=ILWSp0m9G2U,Irene Cara  - Flashdance What A Feeling (Official Music Video),019d4c1b3070d7d83d73148b3e7df9be219450443d88023bad5123850bacffcb
 14,Eurythmics,Sweet Dreams (Are Made of This),1983,https://www.youtube.com/watch?v=eRhg7qPLeN8,Sweet Dreams (Are Made of This) (2005 Remaster),9632d17980e82844dbd423b864015739bbf563749f438dd62a1783fc0b726fd9
@@ -22,7 +22,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 21,Imagine Dragons,Thunder,2017,https://www.youtube.com/watch?v=GtEvysh1654,Imagine Dragons - Thunder (Lyrics),7eaaa6006e2dc6b836eed18cc162ee86cb31ae1c0e38e9b33cbd65a928f2f493
 22,Miley Cyrus,Wrecking Ball,2013,https://www.youtube.com/watch?v=mRFHAvdwXXs,Miley Cyrus - Wrecking Ball (Audio),cc934e38d3ffe97b15410dce07a64508e537811ece7ff22b4ea6d622e997b432
 23,Ray Charles,Hit The Road Jack,1961,https://www.youtube.com/watch?v=SrnWp5O0DEs,Hit the Road Jack,efcd9228c7f1f21175cdae940170a41aa8edbb3046c73ec665fefc98cb01f37a
-24,Maroon 5 (feat. Christina Aguilera),Moves Like Jagger,2010,https://www.youtube.com/watch?v=iEPTlhBmwRg,Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Official Music Video),2b716c86361ebe3c0f510d0bc0c265eaaf9d6b92d66a27aff317e92c8bd3727f
+24,Maroon 5 (feat. Christina Aguilera),Moves Like Jagger,2010,https://www.youtube.com/watch?v=iEPTlhBmwRg,Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Official Music Video) ft. Christina Aguilera,6e65954d6dfb9a81e6aad75854a86661d587bb58a2203005ed0211ab0a292a29
 25,Eric Clapton,Tears In Heaven,1992,https://www.youtube.com/watch?v=ZqtyQuXo9zM,Eric Clapton - Tears In Heaven (lyrics),254e881d1f45452eedd54d1e4ac673407dc5d416cd5b2715da0ee99070074b78
 26,Haddaway,What Is Love,1993,https://www.youtube.com/watch?v=OFNrN_6Ta5I,Haddaway - What is Love (Audio),827ba58bccddc641baaabcc950b2ccfcfc0d49be4464e795bd430f93773af23c
 27,Twenty One Pilots,Stressed Out,2015,https://www.youtube.com/watch?v=pXRviuL6vMY,twenty one pilots: Stressed Out [OFFICIAL VIDEO],bd401f98ccf899e67c96cdca808b41e8959bdad82965ad910b4bd59459541380
@@ -84,7 +84,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 83,Glenn Miller,In the Mood,1939,https://www.youtube.com/watch?v=dVh3ZzVDZik,Glenn Miller - In the Mood (Audio),73bfedf03a515d6352edfadd88d3f70567a3c4982c8759acebcdd557019095eb
 84,The Police,Every Breath You Take,1983,https://www.youtube.com/watch?v=OMOGaugKpzs,The Police - Every Breath You Take (Official Music Video),b76d28067187df678c0ec77d5b5d7e7ccb97674c33b0e01390a179add62e12c8
 85,Rihanna (feat. Drake),Work,2016,https://www.youtube.com/watch?v=xizkel_Jrdo,Rihanna - Work ft. Drake,937972e041ff93d4e1a212630dae1d72db4e58fb2134a30c7948388fdfbbc708
-86,John Mayer,Daughters,2004,https://www.youtube.com/watch?v=rZLbUIa7exE,John Mayer - Daughters (Official HD Video),f331d0934f3feb0c06c2cf114fb89bfe0f03588d82e2e8ca2cc3fa11eb0e5f08
+86,John Mayer,Daughters,2004,https://www.youtube.com/watch?v=rZLbUIa7exE,John Mayer - Daughters (Video),44b2a7d51891299fa793a399dec583eaada16a4fdd35050c720a074d5da64faf
 87,Snow,Informer,1992,https://www.youtube.com/watch?v=TSffz_bl6zo,Snow - Informer (Official Music Video) [4K Remaster],f343f18882713c1d6ad1d79d11551e1763604c7662d048477e266fe64a27a4f5
 88,The Script,Superheroes,2014,https://www.youtube.com/watch?v=0y7ygEDRpSo,The Script - Superheroes (Audio),1932ff5f50d92fe0c7a6817e874ad4fa72c8d18fbed62e4f39f6af7afd5c5c89
 89,Nirvana,Smells Like Teen Spirit,1991,https://www.youtube.com/watch?v=hTWKbfoikeg,Nirvana - Smells Like Teen Spirit (Official Music Video),24463589897e88323496df7a01d934b95debb1b092383c8f3e96efdcad0ce5f2
@@ -92,7 +92,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 91,Diana Ross,Upside Down,1980,https://www.youtube.com/watch?v=5zyidkj2fpo,Upside Down (Original CHIC Mix),767783e7192375d02ad2973150701eeddc1a4023a08636f487eb2a948aa686ce
 92,Milli Vanilli,Girl You Know It's True,1989,https://www.youtube.com/watch?v=RdSmokR0Enk,Milli Vanilli - Girl You Know It's True,7f9231d2066463800dee1d5d5914676488033a4371f94ebb2ed4f511f09d1795
 93,Rufus & Chaka Khan,Ain't Nobody,1983,https://www.youtube.com/watch?v=BNirQXe8HOA,Rufus and Chaka Khan - Ain't Nobody [HD Remaster] (Official Video),53c51d80f4e96f281c4f965d3c4a166e3774b24904718da3c9edc46a01d1e6d6
-94,Cream,White Room,1968,https://www.youtube.com/watch?v=ond4Wp9nPhM,Cream - White Room,98df78b8247b0849f5ef7c6a5cd67aad5327e66a613560797b047bd3b9d0703f
+94,Cream,White Room,1968,https://www.youtube.com/watch?v=xGxhECBbw08,White Room,f96eee395d2e5f13c5a3b4cbf9f1f94a5dcac064a62ba42f52f366fc0173b136
 95,Eddy Grant,Gimme Hope Jo'anna,1988,https://www.youtube.com/watch?v=R-ZplG81oZg,Eddy Grant - Gimme Hope Jo Anna  1988,b7737756a8b5587513c1f7f75e2dbecbc9a91f1a0408044d3b228eb2d6ee6a40
 96,Mark Morrison,Return of the Mack,1996,https://www.youtube.com/watch?v=1ZfjB5P7RS0,Return of the Mack,c04bc92d6089df2815a66219eb1bd1dbd8297d76ea8ff90ccec606446555fb32
 98,Meghan Trainor,All About That Bass,2014,https://www.youtube.com/watch?v=Fccz4gz5erM,All About That Bass,980c4ce5e76d55774aa033e12c09495a96c34cacef1e69b85ea1ae1beff83a2b
@@ -116,10 +116,10 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 115,Mabel,Don't Call Me Up,2019,https://www.youtube.com/watch?v=V35iQO30Xys,Mabel - Don't Call Me Up,97f9f21bba5181ccfddb59502a1a07666cb9c6a3bba98b5203e597798e461fc7
 116,The Chordettes,Lollipop,1958,https://www.youtube.com/watch?v=_kXKUSAbvuM,Lollipop,03e098aa6557feaffcb5b40420736ac1ed36b5693162cafadddd0d694ceab6b2
 117,50 Cent,In Da Club,2003,https://www.youtube.com/watch?v=_VXUiAJi5KY,In Da Club,fb6eb84ea5e3fd38e6d2577e21ca08ff84f1df2f1b86c9dcc173127015c09368
-118,Mark Ronson (feat. Amy Winehouse),Valerie,2007,https://www.youtube.com/watch?v=j8EEtnzLzaA,"Amy Winehouse, Mark Ronson - Valerie (Version Revisited) (Official Audio)",558055e7445d1e55c8520b6b6d2b4e8aadeb9106ff90a81e5d37d067be288818
+118,Mark Ronson (feat. Amy Winehouse),Valerie,2007,https://www.youtube.com/watch?v=-WrSLR5oEao,Valerie (Version Revisited),91cb9c041b6a5abb6fb7645dc1f5a8e4329fbb1545677d1a79ff3aefa142ec33
 119,Aretha Franklin,Respect,1967,https://www.youtube.com/watch?v=9iayJ8u4Qew,Respect,b3b49901cb7f050808d3c6ba031f0fba5c8e06235f5fb0cae161398568734c4b
 120,Manfred Mann,Do Wah Diddy Diddy,1964,https://www.youtube.com/watch?v=1UingsUi0mI,Do Wah Diddy Diddy,462e7b973ae8eabf2af29d5af045c47986fc281f1fb78b1362d2ecb81176c884
-121,Pharrel Williams,Happy,2013,https://www.youtube.com/watch?v=ZbZSe6N_BXs,Pharrell Williams - Happy (Video),7878bf7cbe23768f8a8f4b541acdee6f6a9edf95f761e3839b03082897a9d4fc
+121,Pharrel Williams,Happy,2013,https://www.youtube.com/watch?v=ZbZSe6N_BXs,Pharrell Williams - Happy (Official Video),9198b187d375979bacf0e16dc771b69a8b5fc069e1a9a86ec7a61f3eb96964e9
 122,Amy Macdonald,This Is The Life,2007,https://www.youtube.com/watch?v=sXA5OILKitY,This Is The Life,c788451b07850c196b7f76afe33c02ab1fc80a8f402e97b1865097e74da83a65
 123,Cliff Richard,Congratulations,1968,https://www.youtube.com/watch?v=770f-pwPe4o,Congratulations,c0427a75afd3077b47fdb332bc73fb4c535d6173857dd4c90e19462228a6413f
 124,Aloe Blacc,I Need A Dollar,2010,https://www.youtube.com/watch?v=cV9mMLDKIbI,I Need A Dollar,45f1942e270dbe78e497ebb8f57831df6c5f5c5a51ed6391e7e5fd80dc9aaa1c
@@ -216,7 +216,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 215,Britney Spears,OOps!... I Did It Again,2000,https://www.youtube.com/watch?v=OO0aTOIU_3w,Oops!... I Did It Again,39d353c62317d2fd1c3a17aae55b84593c1622d0befeef638759316461d536c3
 216,Dire Straits,Walk Of Life,1985,https://www.youtube.com/watch?v=h2a20YL5mvg,Dire Straits - Walk of Life (Official Audio),bce795d9e3b5a6481c1c88a335a66fbb60fd5c99990d80647461e22a2854de7e
 217,Mr. Mister,Broken Wings,1985,https://www.youtube.com/watch?v=LpmVp6s-UiY,Broken Wings,a1b3a4f0f069a8413608f40b3ed23b73813af0f3abf2fe78efeade77bc6ae6dc
-218,Reel 2 Real (feat. The Mad Stuntman),I Like To Move It,1993,https://www.youtube.com/watch?v=vuo8kD5zF5I,Reel 2 Real feat. The Mad Stuntman - I Like To Move It (Official Video),559efd4724c748613df6a32580add278c32d4797e8d5d7e07ca7d0abdbf6a3e1
+218,Reel 2 Real (feat. The Mad Stuntman),I Like To Move It,1993,https://www.youtube.com/watch?v=vuo8kD5zF5I,Reel 2 Real feat. The Mad Stuntman - I Like To Move It (Official 4K Video),530815e2531075564956066f8183e2f9674d197c3882e2765c3eadc4354e43cc
 219,Rednex,Cotton Eye Joe,1994,https://www.youtube.com/watch?v=mOYZaiDZ7BM,Rednex - Cotton Eye Joe (Official Music Video) [HD] - RednexMusic com,d637f3c9f68734dbef99dd0800b99de1edbd0bf0f66241f49f200b66a41e4678
 220,The Osmonds,Crazy Horses,1972,https://www.youtube.com/watch?v=28iHA3501MY,Crazy Horses,93bf982dfd08144d392e0be562a814a185964c6b82f864d6989bbadb8f2c3141
 221,Culture Club,Karma Chameleon,1983,https://www.youtube.com/watch?v=JmcA9LIIXWw,Culture Club - Karma Chameleon (Official Music Video),8f84b511feda5b6c84062ec120d8554e66138b6a9b42d6244dec28e8aab9da89
@@ -263,7 +263,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 262,Roxette,Joyride,1991,https://www.youtube.com/watch?v=xCorJG9mubk,Roxette - Joyride (Official Video),c6079429a3075801a21f542944b1ba3db95e930ae6b4242b1227f5d477a4fef6
 263,Lenny Kravitz,Fly Away,1998,https://www.youtube.com/watch?v=EvuL5jyCHOw,Lenny Kravitz - Fly Away (Official Music Video),22ac06d7b5f66eae30835879a0bfa2e76c072dcff6334dfebf8755b09c199d33
 264,Modjo,Lady (Hear Me Tonight),2000,https://www.youtube.com/watch?v=vRB1MLGEHSc,Modjo - Lady (Hear Me Tonight) (Radio Edit) (HQ),b7de8bd17e941a1ba60836ef68c6615ab5d5257e4d1efcabca7e02957eaaf304
-265,KC and the Sunshine Band,Give It Up,1982,https://www.youtube.com/watch?v=N2Gi4Y4JzOA,KC - Give It Up (Digital Video),184e9e24ec26dd928e728488538ef7ba5d88cb43a5ff75ff590f5298fb104101
+265,KC and the Sunshine Band,Give It Up,1982,https://www.youtube.com/watch?v=N2Gi4Y4JzOA,KC - Give It Up (Official Video),317ed78e61b94c5173116da2529e25255a3c2ff42e181b4095adb9c5bd079a98
 266,Eric Prydz,Call On Me,2004,https://www.youtube.com/watch?v=L_fCqg92qks,Eric Prydz - Call On Me,f4af95b548aa7158683ffb4666641576b4d868d855e2e01f5820290aa4e12470
 267,Alicia Keys,Fallin',2001,https://www.youtube.com/watch?v=Urdlvw0SSEc,Alicia Keys - Fallin' (Official HD Video),77a24b17619093736abc0ba771cc55b41c4e24ce81d4491eba2e8f8854d2b4b8
 268,Shawn Mendes & Camila Cabello,Señorita,2019,https://www.youtube.com/watch?v=dFp_b5DPIIo,"Shawn Mendes, Camila Cabello - Señorita (Lyrics) Letra",e64b145c3e739f85359aabe2630cd7081cb268d09c9a709130c203a5fdecd8d2
@@ -281,7 +281,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 280,David Bowie,Life On Mars?,1971,https://www.youtube.com/watch?v=E7taBfKJjUw,David Bowie - Life On Mars? (2021 Remaster),06f564000b82a9588d3b9824e4b376714fe393e8fde252e06e08ca595d67c29f
 281,The Beatles,Get Back,1969,https://www.youtube.com/watch?v=IKJqecxswCA,Get Back (Remastered 2009),b12dd7b6e9220731f1f15d62178c054e03b47fcca77a7aa1735479080fe5a824
 282,Olivia Rodrigo,Drivers License,2021,https://www.youtube.com/watch?v=tNJhkrpLGT8,drivers license,d37aa1106188d27ee866f87e5dd8588e456c8f78658e55774993fed830d8e275
-283,Avicii (feat. Sandro Cavazza),Without You,2017,https://www.youtube.com/watch?v=WRz2MxhAdJo,Avicii - Without You “Audio” ft. Sandro Cavazza,c89256563a05da06fb985311c7e16837e3d5c7524bb4479a0456fe22fc3a8501
+283,Avicii (feat. Sandro Cavazza),Without You,2017,https://www.youtube.com/watch?v=WRz2MxhAdJo,"Avicii, Sandro Cavazza - Without You “Audio”",63a588a0cbd0288e3f51bfee1f440fa5af341115444a4b30a2dcf272b224e51f
 284,Joe Cocker,With A Little Help From My Friends,1969,https://www.youtube.com/watch?v=eXV4WyQMHFM,With A Little Help From My Friends,185cd640c388611767af86b02e42dc49ef307327af2b34ab75bf00210eaa6c3e
 285,Bruno Mars,The Lazy Song,2011,https://www.youtube.com/watch?v=fLexgOxsZu0,Bruno Mars - The Lazy Song (Official Music Video),cae29c8ec65468e5bdf3254790312e868a119c5bcaeaa1ff395fbc2e3b2c4a69
 286,The Arrows,I Love Rock 'N Roll,1975,https://www.youtube.com/watch?v=cJzPLhDf3-8,The Arrows - I Love Rock 'n' Roll (1975),ba34a0588ff1dceeb0ffa167f3b51f3ad3ab290a75c189fd1c6e72ca01d6fece
@@ -298,7 +298,7 @@ Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info
 297,Donovan,Atlantis,1968,https://www.youtube.com/watch?v=QDh_s8_6pSc,Atlantis,9844d867b840a27240b693c2fb21e90c33b2dddaabfff963e848104f5a50b82b
 298,Billy Swan,I Can Help,1974,https://www.youtube.com/watch?v=bgPsM-YWBrE,Billy Swan - I Can Help (Audio),f38f931369cc6616d25424b1ff3585ac72193ec0c867c80c7abea4979ce7b15f
 299,Bon Jovi,It's My Life,2000,https://www.youtube.com/watch?v=VyZeqzWvR7w,It's My Life - Bon Jovi (Lyrics) 🎵,58ed8b8fc9fbc58374e0f4d76908e97436f4db341a1197b6f05a215f8b0bbbb4
-300,Meat Loaf,Paradise By The Dashboard Light,1978,https://www.youtube.com/watch?v=C11MzbEcHlw,Meat Loaf - Paradise By The Dashboard Light,10aa8dcac3ab5738f16007e213a5330e1c5bd332508d598c9918212fa3113452
+300,Meat Loaf,Paradise By The Dashboard Light,1978,https://www.youtube.com/watch?v=C11MzbEcHlw,Meat Loaf - Paradise By The Dashboard Light (Official Video),9be4cbc488830c6e3d5b0da880531f824c5c143d2a8336276b341c98363accfa
 301,Juice WRLD,Lucid Dreams,2018,https://www.youtube.com/watch?v=VTG-ForqDk4,Lucid Dreams,b2935813814101157a418efb1ecfb8f5d61386ead5c5719ec2fe0d2fb044e69a
 302,Roy Orbison,"Oh, Pretty Woman",1964,https://www.youtube.com/watch?v=9yGFWYP3310,"Roy Orbison - Oh, Pretty Woman (Lyrics)",67c5350ef79595d8ad90b82dcfa274da47904825f5d1ff7d1a0e8414221d5537
 303,Ritchie Valens,La Bamba,1958,https://www.youtube.com/watch?v=Coy8Hoa1DNw,RITCHIE VALENS-LA BAMBA,53b115a4bb6e71e161af3088ce3e80718980154541f85e56a01fc55c35280b47
