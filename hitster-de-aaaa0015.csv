@@ -60,9 +60,9 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 59,How Will I Know (Who You Are),Jessica Folcker,1998,https://www.youtube.com/watch?v=5sJ4oxGDqzQ,cf427acab355d70a5f22c3a39a6426577dbbf1a576995033da95f640374fdeba,How Will I Know (Who You Are),NLA379800019
 60,Marvin Gaye (feat. Meghan Trainor),Charlie Puth,2015,https://youtu.be/igNVdlXhKcI?t=9,ec47491e17b2c2f81e774e154c4b45041110c52c8d3b33cce147e95d1c1fa418,Charlie Puth - Marvin Gaye ft. Meghan Trainor [Official Video],USAT21500254
 61,Hotel California,Eagles,1976,https://www.youtube.com/watch?v=BciS5krYL80,e56609d059e9372112e9803fac70b4a3273ea40bc2a635baf8db971320261349,Hotel California (2013 Remaster),USEE11300353
-62,Komm gib mir deine Hand,Tony Marshall,1971,https://www.youtube.com/watch?v=If40-PyRyxA,96a466eebb3df8b349e8eb103948c9d032d0468e20ffed456d2ceb3ac4fd71e7,Komm gib mir deine Hand,DEC717100004
+62,Komm gib mir deine Hand,Tony Marshall,1971,https://www.youtube.com/watch?v=dgAPdpqzIbw,96a466eebb3df8b349e8eb103948c9d032d0468e20ffed456d2ceb3ac4fd71e7,Komm gib mir deine Hand,DEC717100004
 63,Schickeria,Spider Murphy Gang,1981,https://www.youtube.com/watch?v=Ity1AA7pnFM,e1c216e711525ff3e8d7b8edc350769a6d89799e88645ecb04a0e1ecc852b01b,Schickeria,DEA348101052
-64,"Ja, ja, die Katja, die hat ja",Heino,1980,https://www.youtube.com/watch?v=DJnaeEZS3go,40cd4c591199ceaeb35b26b25b938ef4af3d0b4238ac88e5c51e97f84ea051d1,"Ja, ja, die Katja, die hat ja",DEA348000473
+64,"Ja, ja, die Katja, die hat ja",Heino,1980,https://www.youtube.com/watch?v=JlmSE3geH5o,40cd4c591199ceaeb35b26b25b938ef4af3d0b4238ac88e5c51e97f84ea051d1,"Ja, ja, die Katja, die hat ja",DEA348000473
 65,Als wär's das erste Mal,Unheilig,2014,https://www.youtube.com/watch?v=R5ZWrQ-MX6Q,9c92cdccffe2fae888cd27f02dc90c3f3128737df90cb969d982501233d8d2d8,Als wär's das erste Mal,DEUM71400175
 66,Amazing,INNA,2010,https://www.youtube.com/watch?v=czRYJCzGO3A,c7db88d886f20fb88f5383f3efe2479c337a6577c309eff3698d76a5fcc6f190,INNA - Amazing | Official Single (by Play & Win),ROROT0901606
 67,Bye Bye Bye,*NSYNC,2000,https://www.youtube.com/watch?v=C27NShgTQE4,e06fde0a1eb9ceda207c4c4009a71465976a36ca552c2f790b03447ac24d002b,*NSYNC - Bye Bye Bye (Official Audio),USJI10000001
@@ -87,11 +87,11 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 86,I Kissed A Girl,Katy Perry,2008,https://www.youtube.com/watch?v=usvTbqTHwyw,eac97f0d0f725db858782837b69bf4e4576f388e05d6a34c19da3d548ef2658d,I Kissed A Girl,USCA20801738
 87,Ironic,Alanis Morissette,1995,https://www.youtube.com/watch?v=Adu-EfJbuBs,8d5d2960efa5882e5e8f3d6aaec8ada8489c3eb266ec7b9fbb0c4f81501bdaa8,Ironic (2015 Remaster),USMV29400003
 88,Mercy,Shawn Mendes,2016,https://www.youtube.com/watch?v=YfuyEdCpAp0,a59a423d678baad89ae0f300ce36d28bbbf4d13947b93564b40f49989f40a55f,Mercy,USUM71603531
-89,Flying,Nice Little Penguins,1994,https://www.youtube.com/watch?v=iSqguQk55CI,dadb103ca46254b086725a0b13806600dc79cc9a95017bb86e83d38398902008,Flying,DKELA9400302
+89,Flying,Nice Little Penguins,1994,https://www.youtube.com/watch?v=l5x1gQxa1g4,dadb103ca46254b086725a0b13806600dc79cc9a95017bb86e83d38398902008,Flying,DKELA9400302
 90,It's My Party,Lesley Gore,1963,https://www.youtube.com/watch?v=RjdH_NmmO0I,ba144059bbca38d2c3103f6bd26d02a280d1a828527a11b23213a7058fc963a4,It's My Party,USPR36205231
 91,To All the Girls I've Loved Before,Julio Iglesias & Willie Nelson,1984,https://www.youtube.com/watch?v=7As9e3uLpV4,60e5daa1ced99f4ebeba49de9ce2f2a12330a7351db8aac5f03ea8cf7bb40492,Julio Iglesias - To All the Girls I've Loved Before (Official Audio),NLB630000270
 92,Dann küss mich doch,Nicole,1992,https://www.youtube.com/watch?v=STIi47fPnyI,faf1972b938650b089bad18664cc8a1b75f73ba329c59d0cbfa86175e507bd3a,Dann küss mich doch,DEC719200001
-93,Heaven Is A Place On Earth,Belinda Carlisle,1987,https://www.youtube.com/watch?v=UocN_FLb3To,3ac9bc9ba654bb55f9f13e7e55b119439146805c90bbabe3b02f963373a01635,Heaven Is a Place on Earth,GBAAA8700010
+93,Heaven Is A Place On Earth,Belinda Carlisle,1987,https://www.youtube.com/watch?v=j2F4INQFjEI,3ac9bc9ba654bb55f9f13e7e55b119439146805c90bbabe3b02f963373a01635,Heaven Is a Place on Earth,GBAAA8700010
 94,All By Myself,Eric Carmen,1975,https://www.youtube.com/watch?v=iN9CjAfo5n0,d27273d21fc428f6836439c5266e9b64e7d878c1063b46732becf84e02c15093,Eric Carmen - All by Myself (Audio),USAR10400530
 95,I Love Your Smile,Shanice,1991,https://www.youtube.com/watch?v=zokhyLQloBI,c48c12e4712ec6a3943ce89c7eaa2d87a9b9ba06741a60bac8242a0e690a906f,I Love Your Smile,USMO19190003
 96,Summer Son,Texas,1999,https://www.youtube.com/watch?v=wUfKbWyr-OM,8449eddd20c0f08fc050f0d34b441860fd90277f18759069e3ed178d69b93eda,Summer Son,GBF089900144
@@ -307,6 +307,7 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 306,How Deep Is Your Love,Bee Gees,1977,https://www.youtube.com/watch?v=o51p5IRJ5Tc,543064f144c62657d040d088cf3db7b2a5f1c447a353e3b7441db7620452a093,How Deep Is Your Love,GBAKW7701005
 307,Long Train Runnin',The Doobie Brothers,1973,https://www.youtube.com/watch?v=CVsLEI-hCXw,af70b07c0528a0becc7b37cfd513a2b84db2ab9a2362eea3c7bd119d3b4a0fe4,Long Train Runnin',USWB19900751
 308,Whistle,Flo Rida,2012,https://www.youtube.com/watch?v=mRaffkti2us,6556bf47f8e7ec8430afc4cdfcec86c211d4ecd4a4f7497484553039930ac79d,Flo Rida - Whistle [Oficial Audio HD],USAT21201745
+
 
 
 
