@@ -14,11 +14,11 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 13,Holiday,The Other Ones,1986,https://www.youtube.com/watch?v=PSP-S882RKc,aa9a8e2dee5a04f8781700e639f0fc4d08a89c19facdb9765f4a721007e3bb3c,Holiday,DEG128600401
 14,Hijo de la Luna,Mecano,1986,https://www.youtube.com/watch?v=sIIEP6pVACA,2e9744b874ea2111907aac31e86e3fdad91d6874436f715047a2206a8bc14a8b,Hijo de la Luna,ES5028600049
 15,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1993,https://www.youtube.com/watch?v=kOeu1QhrCZg,fb61b53d2f71a73f43ce2a9dcc8b2fed7eaff81d584780342b4397e6fc936aac,I'd Do Anything For Love (But I Won't Do That) (Single Edit),USMC19341323
-16,Soulmate,Natasha Bedingfield,2007,https://www.youtube.com/watch?v=PSmEy0CyWFs,0e32b2ae68bdb816e9c296ff429955b185c81523be556a9fa3d87cbd16e6369f,Soulmate,GBARL0700096
+16,Soulmate,Natasha Bedingfield,2007,https://www.youtube.com/watch?v=P27MPi3ZhCg,0e32b2ae68bdb816e9c296ff429955b185c81523be556a9fa3d87cbd16e6369f,Soulmate,GBARL0700096
 17,Faust auf Faust (Schimanski),Klaus Lage,1985,https://www.youtube.com/watch?v=CLF-ZCb9E5s,fcda845cc74af1ee21d971fe9b4cec55b1014d586928b12e5366b4f526182b59,Faust auf Faust (Schimanski) (Remastered 2007),DEA340700759
 18,Because I Love You,Stevie B,1990,https://www.youtube.com/watch?v=Tm4lcJ9nMSw,7691b485afa0650da143fae3c0fc0147a104e8e63790014645bfe6b8f1b137c0,Because I Love You,AUGBT2311775
 19,Anywhere,Rita Ora,2018,https://www.youtube.com/watch?v=ksdAs4LBRq8,5855cac387ce83ceae44998cf9bc89ea090bf68e240574ad7292290578457314,Rita Ora - Anywhere [Official Video],GBAHS1701111
-20,Can't Take My Eyes off You,Frankie Valli,1967,https://www.youtube.com/watch?v=iObGpqXKBdY,6621a64a0bd7c50277e98853b6706017cbdc86f6505c6758a9da8e5778116603,Cant Take My Eyes off You,USRH11000238
+20,Can't Take My Eyes off You,Frankie Valli,1967,https://www.youtube.com/watch?v=DYwQy_9JPtQ,6621a64a0bd7c50277e98853b6706017cbdc86f6505c6758a9da8e5778116603,Cant Take My Eyes off You,USRH11000238
 21,High Hopes,Panic! At The Disco,2018,https://www.youtube.com/watch?v=GJY8OMJXRAk,b279e59289c9a658d62907a89f6837adf8192f9fd4b21461b43cff94667a496b,High Hopes,USAT21801174
 22,Love Me Like You Do,Ellie Goulding,2015,https://www.youtube.com/watch?v=725WlG1idPc,1ea7601096f1e895b6ab80e4b822bf897716115b987a8031d4a05b40a0f92be2,Ellie Goulding - Love Me Like You Do (Official Audio),GBUM71406823
 23,"Sugar, Sugar",The Archies,1969,https://www.youtube.com/watch?v=Om5O6GL7cLY,b5972e082451ecb7ab32e4655b7de0f5e583c7a9790ccb41835ef4c8ae1d25bf,Sugar Sugar,NLG620400826
@@ -307,5 +307,6 @@ Card#,Title,Artist,Year,URL,Hashed Info,Youtube-Title,ISRC
 306,How Deep Is Your Love,Bee Gees,1977,https://www.youtube.com/watch?v=o51p5IRJ5Tc,543064f144c62657d040d088cf3db7b2a5f1c447a353e3b7441db7620452a093,How Deep Is Your Love,GBAKW7701005
 307,Long Train Runnin',The Doobie Brothers,1973,https://www.youtube.com/watch?v=CVsLEI-hCXw,af70b07c0528a0becc7b37cfd513a2b84db2ab9a2362eea3c7bd119d3b4a0fe4,Long Train Runnin',USWB19900751
 308,Whistle,Flo Rida,2012,https://www.youtube.com/watch?v=mRaffkti2us,6556bf47f8e7ec8430afc4cdfcec86c211d4ecd4a4f7497484553039930ac79d,Flo Rida - Whistle [Oficial Audio HD],USAT21201745
+
 
 
