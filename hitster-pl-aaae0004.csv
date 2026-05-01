@@ -1,4 +1,4 @@
-Card#,Artist,Title,Year,URL,Youtube-Title,Hashed Info,ISRC
+Card#,Title,Artist,Year,URL,Youtube-Title,Hashed Info,ISRC
 1,Rock and roll all nite,Kiss,1975,https://www.youtube.com/watch?v=UXYfAOCpaww,Kiss - Rock And Roll All Nite (Remastered),ac7b502207a453367c123135ea18914460554cb9bde065df7b11d5076c2faadd,
 2,Yéké Yéké,Mory Kanté,1987,https://www.youtube.com/watch?v=e7fpLeTdxPA,Yeke Yeke,0bcc66939f030279c649147273321786ce01b1f92b4b44a922a103a30dcd71f2,
 3,You shook me all night long,AC/DC,1980,https://www.youtube.com/watch?v=3G6oLyWohUg,AC/DC  -  You Shook Me All Night Long (HQ),3435ff5adee0cdba9c25e1e72880c26590d9585d3639499f7cf7bae66c239600,
