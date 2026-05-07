@@ -1,19 +1,147 @@
 File,Game
-hitster-ca-aaad0001.csv,Hitster Canada
-hitster-de-aaaa0007.csv,Hitster Deutschland Schlagerparty
-hitster-de-aaaa0012.csv,Hitster Deutschland Summer Party
-hitster-de-aaaa0015.csv,Hitster Deutschland Guilty Pleasures
-hitster-de-aaaa0019.csv,Hitster Deutschland Bingo
-hitster-de-aaaa0025.csv,Hitster Deutschland Bayern 1 Expansion Pack
-hitster-de-aaaa0026.csv,Hitster Deutschland Movies & TV Soundtracks Expansion Pack 
-hitster-de-aaaa0039.csv,Hitster Deutschland Rock
-hitster-de-aaaa0040.csv,Hitster Deutschland Celebration
-hitster-de-aaaa0042.csv,Hitster Deutschland Christmas Expansion Pack
-hitster-de.csv,Hitster Deutschland
-hitster-fr-aaaa0031.csv,Hitster France Summer Party
-hitster-fr.csv,Hitster France
-hitster-hu-aaae0003.csv,Hitster magyar kiadás
-hitster-nl.csv,Hitster Netherlands
-hitster-nordics.csv,Hitster Nordics Suomi
-hitster-pl-aaae0001.csv,Hitster Central Europe
-hitster-pl-aaae0004.csv,Hitster Central Europe Summer Party
+Hitster Original - Christmas (Exp.),hitster-hu-aaae0013.csv
+Hitster Original - Christmas (Exp.),hitster-pl-aaae0012.csv
+Hitster Original - Los 40,hitster-es-aaaa0087.csv
+Hitster Original - Christmas (Exp.),hitster-ca-aaad0010.csv
+Hitster Original - Radio Heart,hitster-gb-aaaa0086.csv
+Hitster Battle of the Generations,hitster-ca-aaad0009.csv
+Hitster 100% Croatia,hitster-hr-aaak0002.csv
+Hitster Bingo,hitster-il-aaaj0004.csv
+Hitster Original - Summer Party,hitster-br-aaaq0003.csv
+Hitster Original - Rock,hitster-gb-aaaa0083.csv
+Hitster Bingo,hitster-mx-aaab0005.csv
+Hitster Original - Latino,hitster-mx-aaab0004.csv
+Hitster Original - Temazos,hitster-pe-aaan0002.csv
+Hitster Original - Rock,hitster-fr-aaaa0085.csv
+Hitster Original - Amazon,hitster-de-aaaa0084.csv
+Hitster Original - Chile Edition,hitster-cl-aaau0001.csv
+Hitster Flying Mic,hitster-be-aaaa0082.csv
+Hitster Original - Summer Party,hitster-nz-aaai0002.csv
+Hitster Bingo,hitster-it-aaac0005.csv
+Hitster Original - Rock,hitster-hu-aaae0011.csv
+Hitster Original - Rock,hitster-pl-aaae0010.csv
+Hitster Flying Mic,hitster-de-aaaa0079.csv
+Hitster Original - K-Pop,hitster-kr-aaag0002.csv
+Hitster Original - Aussie Edition,hitster-au-aaah0002.csv
+Hitster Original - Wacken On Air,hitster-de-aaaa0080.csv
+Hitster - Flying Mic,hitster-nl-aaaa0078.csv
+Hitster Original - Guilty Pleasures,hitster-br-aaaq0002.csv
+Hitster - Original Refresh ,hitster-fr-aaaa0077.csv
+Hitster - Original Refresh,hitster-es-aaaa0076.csv
+Hitster Battle of the Generations,hitster-fr-aaaa0067.csv
+Hitster - Original Refresh,hitster-de-aaaa0075.csv
+Hitster - Original Refresh,hitster-nl-aaaa0069.csv
+Hitster Battle of the Generations,hitster-es-aaaa0066.csv
+Hitster Original - Rock,hitster-it-aaac0004.csv
+Hitster Original - Soundtracks (Exp.),hitster-ca-aaad0008.csv
+Hitster Original - Rock (Exp.),hitster-us-aaaa0073.csv
+Hitster Original - Hip Hop (Exp.),hitster-us-aaaa0072.csv
+Hitster Original - Christmas (Exp.),hitster-us-aaaa0071.csv
+Hitster Bingo,hitster-us-aaaa0070.csv
+Hitster Battle of the Generations,hitster-nordics-aaaa0068.csv
+Hitster Original - Summer Party,hitster-il-aaaj0003.csv
+Hitster Original - Soundtracks (Exp.),hitster-pl-aaae0009.csv
+Hitster Original - Rock,hitster-ca-aaad0007.csv
+Hitster Battle of the Generations,hitster-de-aaaa0064.csv
+Hitster Original - Hip Hop (Exp.),hitster-nordics-aaaa0065.csv
+Hitster Battle of the Generations,hitster-nl-aaaa0063.csv
+Hitster Original - Summer Party,hitster-nordics-aaaa0062.csv
+Hitster Original - Rock,hitster-es-aaaa0061.csv
+Hitster Original,hitster-jp.csv
+Hitster Original,hitster-ar.csv
+Hitster Original - Rouge (Exp.),hitster-ca-aaad0006.csv
+Hitster Original - Hip Hop (Exp.),hitster-fr-aaaa0057.csv
+Hitster Original - Hip Hop (Exp.),hitster-de-aaaa0059.csv
+Hitster Original - Guilty Pleasures,hitster-fr-aaaa0058.csv
+Hitster Original - Hip Hop (Exp.),hitster-nl-aaaa0060.csv
+Hitster Original - Smellur 2,hitster-is-aaap0002.csv
+Hitster Original,hitster-tw.csv
+Hitster Original,hitster-hk.csv
+Hitster Original - 100% Israeli,hitster-il-aaaj0002.csv
+Hitster Original - Latino,hitster-cl-aaaa0056.csv
+Hitster Original - All American,hitster-us-aaaa0055.csv
+Hitster Original - Disco Polo,hitster-pl-aaae0008.csv
+Hitster Original - Platinum Edition,hitster-global-aaaa0054.csv
+Hitster Original - Soundtracks,hitster-it-aaac0003.csv
+Hitster Original - Latino,hitster-us-aaaa0053.csv
+Hitster Original - Radio Contact,hitster-be-aaaa0052.csv
+Hitster Original - Guilty Pleasures,hitster-baltics-aaal0002.csv
+Hitster Original,hitster-br.csv
+Hitster Original (2nd Edition),hitster-ro-aaae0007.csv
+Hitster Original (2nd Edition),hitster-cz-aaae0006.csv
+Hitster Original - Guilty Pleasures,hitster-gb-aaaa0051.csv
+Hitster Bingo,hitster-pl-aaae0005.csv
+Hitster Original - Smellur,hitster-is-aaap0001.csv
+Hitster Bingo,hitster-ca-aaad0005.csv
+Hitster Original - Celebration,hitster-de-aaaa0040.csv
+Hitster Original - Celebration,hitster-nl-aaaa0041.csv
+Hitster Original - Finland,hitster-nordics-aaaa0050.csv
+Hitster Original - Rock,hitster-nordics-aaaa0048.csv
+Hitster Original - Christmas (Exp.),hitster-nordics-aaaa0043.csv
+Hitster Original - Denmark,hitster-nordics-aaaa0047.csv
+Hitster Original - Summer Party,hitster-pl-aaae0004.csv
+Hitster Original - Rock,hitster-de-aaaa0039.csv
+Hitster Original - Norway,hitster-nordics-aaaa0046.csv
+Hitster Original - English,hitster-nordics-aaaa0049.csv
+Hitster Original - 2 Förläng Festen (Sweden),hitster-nordics-aaaa0045.csv
+Hitster Original - Christmas (Exp.),hitster-de-aaaa0042.csv
+Hitster Original - Sweden,hitster-nordics-aaaa0044.csv
+Hitster Original - Guilty Pleasures,hitster-us-aaaa0038.csv
+Hitster Original - Christmas (Exp.),hitster-nl-aaaa0037.csv
+Hitster Original - Rock (Exp.),hitster-nl-aaaa0036.csv
+Hitster Bingo,hitster-nordics-aaaa0035.csv
+Hitster Original - Summer Party,hitster-ca-aaad0004.csv
+Hitster Original (Marcus),hitster-se-aaaa0034.csv
+Hitster Original (Kickstarter),hitster-se-aaaa0033.csv
+Hitster Original - 100% NL,hitster-nl-aaaa0029.csv
+Hitster Original - Summer Party,hitster-gb-aaaa0016.csv
+Hitster Original,hitster-lb.csv
+Hitster Original,hitster-pe.csv
+Hitster Original,hitster-ph.csv
+Hitster Original - 100% Spanish,hitster-es-aaaa0030.csv
+Hitster Original - Soundtracks (Exp.),hitster-nordics-aaaa0028.csv
+Hitster Original - Summer Party,hitster-fr-aaaa0031.csv
+Hitster Original - 100% Italian,hitster-it-aaac0002.csv
+Hitster Original - Soundtracks (Exp.),hitster-nl-aaaa0026.csv
+Hitster Original - Bayern (Exp.),hitster-de-aaaa0025.csv
+Hitster Original - Soundtracks (Exp.),hitster-de-aaaa0027.csv
+Hitster Original,hitster-baltics.csv
+Hitster Original - Guilty Pleasures,hitster-nordics-aaaa0024.csv
+Hitster Original,hitster-hr.csv
+Hitster Original - Guilty Pleasures,hitster-ca-aaad0003.csv
+Hitster Original,hitster-il.csv
+Hitster Bingo,hitster-pt-aaaa0022.csv
+Hitster Original - 100% Franco,hitster-ca-aaad0002.csv
+Hitster Original,hitster-us.csv
+Hitster Bingo,hitster-gb-aaaa0021.csv
+Hitster Original,hitster-nz.csv
+Hitster Bingo,hitster-nl-aaaa0020.csv
+Hitster Bingo,hitster-de-aaaa0019.csv
+Hitster Bingo,hitster-fr-aaaa0018.csv
+Hitster Bingo,hitster-es-aaaa0017.csv
+Hitster Original - Guilty Pleasures,hitster-de-aaaa0015.csv
+Hitster Original,hitster-ch.csv
+Hitster Original  - Summer Party,hitster-es-aaaa0013.csv
+Hitster Original  - Summer Party,hitster-de-aaaa0012.csv
+Hitster Original  - Summer Party,hitster-nl-aaaa0011.csv
+Hitster Original,hitster-hu.csv
+Hitster Original (2nd Edition),hitster-pl-aaae0002.csv
+Hitster Original - Tubes 100% Français,hitster-fr-aaaa0010.csv
+Hitster Original,hitster-kr.csv
+Hitster Original,hitster-au.csv
+Hitster Original,hitster-fr.csv
+Hitster Original,hitster-es.csv
+Hitster Original,hitster-de.csv
+Hitster Original,hitster-nl.csv
+Hitster Original,hitster-gr.csv
+Hitster Original,hitster-pl.csv
+Hitster Original,hitster-ca.csv
+Hitster Original,hitster-it.csv
+Hitster Original (Amazon),hitster-us-aaab0003.csv
+Hitster Original,hitster-mx.csv
+Hitster Original,hitster-us.csv
+Hitster Original - Guilty Pleasures,hitster-nl-aaaa0006.csv
+Hitster Original - Temazos,hitster-es-aaaa0008.csv
+Hitster Original - Schlager Party,hitster-de-aaaa0007.csv
+Hitster Original,hitster-pt.csv
+Hitster Original,hitster-gb.csv
